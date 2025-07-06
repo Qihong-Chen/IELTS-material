@@ -3900,3 +3900,2102 @@ wood	wʊd	木材
 woods	wʊdz	森林
 zoo	zuː	动物园
 
+# 11.1
+caravan	ˈkærəvæn	房车
+navigation	ˌnævɪˈɡeɪʃn̩	导航
+demonstration	ˌdemənˈstreɪʃn̩	演示
+candles	ˈkændl̩z	蜡烛
+canteen	kænˈtiːn	食堂
+intermediate	ˌɪntəˈmiːdɪət	中级的
+vegetarian	ˌvedʒɪˈteərɪən	素食主义者
+campsite	ˈkæmpsaɪt	野营点
+helicopter	ˈhelɪkɒptə	直升机
+donations	dəʊˈneɪʃn̩z	捐赠
+moonlight	ˈmuːnlaɪt	月光
+mid-range	ˈmɪˌdrendʒ	中等距离
+warehouse	ˈweəhaʊs	仓库
+double-grill	<double-grill>	双层烤架
+researcher	rɪˈsɜːtʃə	研究员
+website	ˈwebsaɪt	网站
+charge	tʃɑːdʒ	充电，冲锋，费用
+access	ˈækses	使用
+bills	bɪlz	账单
+waitress	ˈweɪtrɪs	女服务生
+excursion	ɪkˈskɜːʃn̩	远足
+duration	djʊˈreɪʃn̩	持续
+elevator	ˈelɪveɪtə	电梯
+postage	ˈpəʊstɪdʒ	邮费
+signature	ˈsɪɡnətʃə	签字
+liberty	ˈlɪbəti	自由
+adventure	ədˈventʃə	冒险
+automatic	ˌɔːtəˈmætɪk	自动的
+painkillers	ˈpeɪnkɪləz	止痛药
+sailing	ˈseɪlɪŋ	远航
+keyboard	ˈkiːbɔːd	键盘
+transit	ˈtrænsɪt	运输
+enjoyable	ɪnˈdʒɔɪəbl̩	令人愉快的，好玩的
+snowboarding	<snowboarding>	滑雪
+landscape	ˈlændskeɪp	风景
+helmet	ˈhelmɪt	头盔
+mask	mɑːsk	面具
+moderate	ˈmɒdəreɪt	温和的，中度的
+ladder	ˈlædə	梯子
+concentration	ˌkɒnsənˈtreɪʃn̩	注意力
+categories	ˈkætɪɡərɪz	分类，类别
+variable	ˈveərɪəbl̩	变化的
+sauna	ˈsaʊnə	桑拿
+child-minding	<child-minding>	育儿
+racket	ˈrækɪt	球拍
+coach	kəʊtʃ	车厢
+handles	ˈhændl̩z	把手
+nylon	ˈnaɪlɒn	尼龙
+package	ˈpækɪdʒ	(话费，旅游等)套餐
+receipt	rɪˈsiːt	收据
+waterfall	ˈwɔːtəfɔːl	瀑布
+partner	ˈpɑːtnə	伙伴
+voucher	ˈvaʊtʃə	代金券
+gym	dʒɪm	健身房
+laptop	ˈlæptɒp	笔记本电脑
+yoga	ˈjəʊɡə	瑜伽
+knife	naɪf	刀
+neck	nek	脖子
+mat	mæt	垫子
+container	kənˈteɪnə	容器
+buffet	ˈbʊfeɪ	自助餐
+enlargement	ɪnˈlɑːdʒmənt	扩大
+studio	ˈstjuːdɪəʊ	工作室
+critic	ˈkrɪtɪk	批评家
+zoom	zuːm	变焦
+lens	lenz	镜头
+infrastructure	ˈɪnfrəstrʌktʃə	基础设施
+electricity	ɪˌlekˈtrɪsɪti	电
+resort	rɪˈzɔːt	旅游胜地
+infection	ɪnˈfekʃn̩	传染，感染
+fountain	ˈfaʊntɪn	喷泉
+vest	vest	马甲
+qualification	ˌkwɒlɪfɪˈkeɪʃn̩	资格
+poverty	ˈpɒvəti	贫穷
+expectation	ˌekspekˈteɪʃn̩	期望
+glue	ɡluː	胶水
+font	fɒnt	字体
+reliable	rɪˈlaɪəbl̩	可靠的
+violin	ˌvaɪəˈlɪn	小提琴
+manufacturing	ˌmænjʊˈfæktʃərɪŋ	制造
+outfit	ˈaʊtfɪt	服装
+shade	ʃeɪd	阴影，树荫
+myth	mɪθ	神话
+harvested	ˈhɑːvɪstɪd	收获的
+opened	ˈəʊpənd	打开的
+cleaned	kliːnd	干净的，已清洁的
+expanded	ɪkˈspændɪd	扩大的
+cooled	kuːld	冷却的，冷却
+sealed	siːld	密封的，密封
+segment	seɡˈment	部分
+disability	ˌdɪsəˈbɪlɪti	残疾
+spine	spaɪn	脊柱
+pest	pest	害虫
+laundry	ˈlɔːndri	洗衣
+survey	səˈveɪ	调查
+rape	reɪp	强奸
+pegs	peɡz	钉桩，钉子
+scaffold	ˈskæfəʊld	脚手架
+hazel	ˈheɪzl̩	榛子
+portrait	ˈpɔːtrɪt	肖像
+symbolism	ˈsɪmbəlɪzəm	象征主义，象征意义
+mud	mʌd	泥土
+certificate	səˈtɪfɪkeɪt	证书
+liquids	ˈlɪkwɪdz	液体
+plastic	ˈplæstɪk	塑料
+storage	ˈstɔːrɪdʒ	存储
+Sweden	ˈswiːdn̩	瑞典
+grocery	ˈɡrəʊsəri	杂货店
+socialise	<socialise>	社交
+lemon	ˈlemən	柠檬
+congratulations	kənˌɡrætʃʊˈleɪʃn̩z	祝贺
+pump	pʌmp	泵
+mirror	ˈmɪrə	镜子
+map	mæp	地图
+birdwatching	ˈbɜːdwɒtʃəɪŋ	观鸟
+identification	aɪˌdentɪfɪˈkeɪʃn̩	识别
+judo	ˈdʒuːdəʊ	柔道
+orientation	ˌɔːrɪenˈteɪʃn̩	新生入学会
+instructor	ɪnˈstrʌktə	教练
+waterproof	ˈwɔːtəpruːf	防水的
+dirt	dɜːt	泥土，灰尘
+cracked	krækt	有裂缝的
+spa	spɑː	水疗，温泉疗养地
+calendar	ˈkælɪndə	日历
+napkin	ˈnæpkɪn	餐巾
+vacancy	ˈveɪkənsi	空缺
+clerical	ˈkl̩erɪkl	文书的
+sector	ˈsektə	部门
+complicated	ˈkɒmplɪkeɪtɪd	复杂的
+administrative	ədˈmɪnɪstrətɪv	行政的
+spreadsheet	ˈspredʃiːt	电子表格
+sink	sɪŋk	水槽
+stove	stəʊv	火炉
+frustrating	frʌˈstreɪtɪŋ	令人沮丧的
+orchestra	ˈɔːkɪstrə	管弦乐队
+ballet	ˈbæleɪ	芭蕾舞
+amateur	ˈæmətə	业余的
+composer	kəmˈpəʊzə	作曲家
+posters	ˈpəʊstəz	海报
+carpentry	ˈkɑːpɪntri	木工活
+lifeguard	ˈlaɪfɡɑːd	救生员
+monument	ˈmɒnjʊmənt	纪念碑
+locker	ˈlɒkə	有锁储物柜
+fireplace	ˈfaɪəpleɪs	壁炉
+occupancy	ˈɒkjʊpənsi	居住，占据
+date of birth	deɪt əv bɜːθ	生日
+internet cafe	ˈɪntənet ˈkæfeɪ	网吧
+type of insurance	taɪp əv ɪnˈʃʊərəns	保险类型
+fish tank	fɪʃ tæŋk	鱼缸
+snow boarding	snəʊ ˈbɔːdɪŋ	滑雪板
+membership limitation	ˈmembəʃɪp ˌlɪmɪˈteɪʃn̩	会员限制
+planning meeting	ˈplænɪŋ ˈmiːtɪŋ	计划会议
+drama workshop	ˈdrɑːmə ˈwɜːkʃɒp	戏剧社
+outdoor activities	ˈaʊtdɔː ækˈtɪvətiz	户外活动
+group deposit	ɡruːp dɪˈpɒzɪt	团体押金
+joining fee	ˈdʒɔɪnɪŋ fiː	加盟费
+dance classes	dɑːns ˈklɑːsɪz	舞蹈班
+leisure centre	ˈleʒə ˈsentə	休闲中心
+round tables	ˈraʊnd ˈteɪbl̩z	圆桌
+bunch of flowers	bʌntʃ əv ˈflaʊəz	花束
+total deposit	ˈtəʊtl̩ dɪˈpɒzɪt	整体押金
+delivery fee	dɪˈlɪvəri fiː	快递费用
+special items	ˈspeʃl̩ ˈaɪtəmz	特别项目
+high seasons	haɪ ˈsiːzn̩z	旺季
+country living	ˈkʌntri ˈlɪvɪŋ	乡村生活
+peaceful environment	ˈpiːsfəl ɪnˈvaɪərənmənt	和平环境
+eating out	ˈiːtɪŋ ˈaʊt	外出就餐
+existing skills	ɪɡˈzɪstɪŋ skɪlz	现有技能
+house agent	ˈhaʊs ˈeɪdʒənt	房屋中介
+investment schemes	ɪnˈvestmənt skiːmz	投资计划
+branch manager	brɑːntʃ ˈmænɪdʒə	部门经理
+house insurance	ˈhaʊs ɪnˈʃʊərəns	房屋保险
+side entrance	saɪd ɪnˈtrɑːns	侧门
+client engineer	ˈklaɪənt ˌendʒɪˈnɪə	客户维护工程师
+post office	pəʊst ˈɒfɪs	邮局
+horse riding	hɔːs ˈraɪdɪŋ	骑马
+office furniture	ˈɒfɪs ˈfɜːnɪtʃə	办公家具
+hot chocolate	hɒt ˈtʃɒklət	热巧克力
+advanced lessons	ədˈvɑːnst ˈlesn̩z	高级课程
+warm clothing	wɔːm ˈkləʊðɪŋ	保暖服
+free entry	friː ˈentri	免门票
+toy factory	tɔɪ ˈfæktəri	玩具厂
+large slide	lɑːdʒ slaɪd	大滑梯
+petrol station	ˈpetrəl ˈsteɪʃn̩	加油站
+evening appointment	ˈiːvn̩ɪŋ əˈpɔɪntmənt	晚间约会
+employment medical certificate	ɪmˈploɪmənt ˈmedɪkl̩ səˈtɪfɪkeɪt	就业医疗证明
+regular check	ˈreɡjʊlə tʃek	例行检查
+sports injury	spɔːts ˈɪndʒəri	运动伤害
+heart disease	hɑːt dɪˈziːz	心脏病
+space museum	speɪs mjuːˈzɪəm	太空博物馆
+sun cream	sʌn kriːm	防晒霜
+personal attention	ˈpɜːsənl̩ əˈtenʃn̩	个人注意力
+paddling pool	ˈpædl̩ɪŋ puːl	嬉水池
+central heating	ˈsentrəl ˈhiːtɪŋ	中央供暖
+bank statement	bæŋk ˌsteɪtmənt	银行账单
+book reservation	bʊk ˌrezəˈveɪʃn̩	典藏
+daytime temperature	ˈdeɪtaɪm ˈtemprətʃə	日间温度
+cable car	ˈkeɪbl̩ kɑː	缆车
+outdoor swimming pool	ˈaʊtdɔː ˈswɪmɪŋ puːl	露天泳池
+baseball coach	ˈbeɪsbɔːl kəʊtʃ	棒球教练
+coral reef	ˈkɒrəl riːf	珊瑚礁
+rock pool	rɒk puːl	潮汐潭
+maintenance of gardens	ˈmeɪntənəns əv ˈɡɑːdn̩z	维护家园
+town hall	taʊn hɔːl	市政大厅
+good value	ɡʊd ˈvæljuː	实惠
+ice pack	aɪs pæk	冰袋
+alarm system	əˈlɑːm ˈsɪstəm	警报系统
+order section	ˈɔːdə ˈsekʃn̩	订单管理部
+walking boots	ˈwɔːkɪŋ buːts	登山靴
+advanced level	ədˈvɑːnst ˈlevl̩	高级水平
+book keeper	bʊk ˈkiːpə	记账员
+washing staff	ˈwɒʃɪŋ stɑːf	裁员，洗衣工
+home welcome	həʊm ˈwelkəm	宾至如归，家庭欢迎
+evening meals	ˈiːvn̩ɪŋ miːlz	晚餐
+health service	helθ ˈsɜːvɪs	健康服务
+old-fashioned exterior	əʊl ˈfæʃn̩d ɪkˈstɪərɪə	过时的外表
+limited parking	ˈlɪmɪtɪd ˈpɑːkɪŋ	停车限制
+name cards	ˈneɪm kɑːdz	名片
+service manager	ˈsɜːvɪs ˈmænɪdʒə	服务部经理
+private company	ˈpraɪvɪt ˈkʌmpəni	私人企业
+silver package	ˈsɪlvə ˈpækɪdʒ	银色包裹
+family photo	ˈfæmli ˈfəʊtəʊ	家庭照片
+energy saving	ˈenədʒi ˈseɪvɪŋ	节能
+driving license	ˈdraɪvɪŋ ˈlaɪsns	驾照
+job title	dʒɒb ˈtaɪtl̩	职位名称
+type of magazine	taɪp əv ˌmæɡəˈziːn	杂志体裁
+starting salary	ˈstɑːtɪŋ ˈsæləri	起薪
+calling diversion	ˈkɔːlɪŋ daɪˈvɜːʃn̩	呼叫转移
+renew passport	rɪˈnjuː ˈpɑːspɔːt	更新护照
+current address	ˈkʌrənt əˈdres	当前住址
+flower shop	ˈflaʊə ʃɒp	花店
+nursery supervisor	ˈnɜːsəri ˈsuːpəvaɪzə	幼儿园管理员
+gold stars	ɡəʊld stɑːz	金星
+film festival	fɪlm ˈfestɪvl̩	电影节
+special requirement	ˈspeʃl̩ rɪˈkwaɪəmənt	特殊需求
+back row	ˈbæk raʊ	后排
+dark trousers	dɑːk ˈtraʊzəz	深色裤子
+furniture designers	ˈfɜːnɪtʃə dɪˈzaɪnəz	家具设计师
+monthly rent	ˈmʌnθli rent	月租金
+preferred occupation	prɪˈfɜːd ˌɒkjʊˈpeɪʃn̩	首选职业
+previous major	ˈpriːvɪəs ˈmeɪdʒə	原专业
+previous working experience	ˈpriːvɪəs ˈwɜːkɪŋ ɪkˈspɪərɪəns	先前工作经验
+decoration balloons	ˌdekəˈreɪʃn̩ bəˈluːnz	装饰气球
+vegetable burger	ˈvedʒɪtəbl̩ ˈbɜːɡə	蔬菜汉堡包
+safety regulations	ˈseɪfti ˌreɡjʊˈleɪʃn̩z	安全守则
+return tickets	rɪˈtɜːn ˈtɪkɪts	回程票
+error message	ˈerə ˈmesɪdʒ	错误信息
+customer service officer	ˈkʌstəmə ˈsɜːvɪs ˈɒfɪsə	客服经理
+garden room	ˈɡɑːdn̩ ruːm	花房
+sleeping bag	ˈsliːpɪŋ bæɡ	睡袋
+isolated spot	ˈaɪsəleɪtɪd spɒt	隔离点
+washing machine	ˈwɒʃɪŋ məˈʃiːn	洗衣机
+car number	kɑː ˈnʌmbə	车牌号
+group trip	ɡruːp trɪp	团队出游
+self drive	self draɪv	自驾
+non-smoking room	ˈnɑːnˈsmokɪŋ ruːm	禁烟室
+culture centre	ˈkʌltʃə ˈsentə	文化中心
+dreamtime under stars	<dreamtime> ˈʌndə stɑːz	夜晚畅想
+modern authors	ˈmɒdn̩ ˈɔːθəz	现代作家
+long stick	ˈlɒŋ stɪk	长棍子
+free parking	friː ˈpɑːkɪŋ	免费停车
+weekly return	ˈwiːkli rɪˈtɜːn	周回报
+extra room	ˈekstrə ruːm	额外房间
+bank transfer	bæŋk ˈtrænsfɜː	银行转账
+short time	ʃɔːt ˈtaɪm	短时间
+required date	rɪˈkwaɪəd deɪt	规定时间
+accommodation type	əˌkɒməˈdeɪʃn̩ taɪp	住宿类型
+bills and meals	bɪlz ənd miːlz	账单和餐
+sports centre	spɔːts ˈsentə	运动中心
+road runners	rəʊd ˈrʌnəz	哔哔鸟
+job requirement	dʒɒb rɪˈkwaɪəmənt	工作需要
+current occupation	ˈkʌrənt ˌɒkjʊˈpeɪʃn̩	当前工作
+length of stay	leŋθ əv steɪ	逗留时间
+type of accommodation	taɪp əv əˌkɒməˈdeɪʃn̩	住宿类型
+spring park	sprɪŋ pɑːk	公园名称
+starting date	ˈstɑːtɪŋ deɪt	起始日期
+reference number	ˈrefrəns ˈnʌmbə	参考号码
+estimated value	ˈestɪmeɪtɪd ˈvæljuː	估价
+family use	ˈfæmli ˈjuːs	家用
+safety check	ˈseɪfti tʃek	安全检查
+preferred equipment	prɪˈfɜːd ɪˈkwɪpmənt	偏爱的装备
+flight service	flaɪt ˈsɜːvɪs	空中服务
+off-peak time	ˈɒf piːk ˈtaɪm	非高峰时间
+maximum price	ˈmæksɪməm praɪs	最高价格
+helicopter trip	ˈhelɪkɒptə trɪp	直升机游览
+membership number	ˈmembəʃɪp ˈnʌmbə	会员号码
+organic food	ɔːˈɡænɪk fuːd	有机食物
+sports equipment	spɔːts ɪˈkwɪpmənt	体育装备
+poor quality	pʊə ˈkwɒlɪti	低质量
+fresh products	freʃ ˈprɒdʌkts	新鲜产品
+organic farming	ɔːˈɡænɪk ˈfɑːmɪŋ	有机农业
+cycling route	ˈsaɪkl̩ɪŋ ruːt	骑行路线
+language skill	ˈlæŋɡwɪdʒ skɪl	语言技能
+group discount	ɡruːp ˈdɪskaʊnt	团购优惠
+night flight	naɪt flaɪt	夜航
+white mountain	waɪt ˈmaʊntɪn	白雪覆盖的山
+dust bag	dʌst bæɡ	垃圾袋
+golf court	ɡɒlf kɔːt	高尔夫球场
+rock climbing	rɒk ˈklaɪmɪŋ	攀岩
+friendly faces	ˈfrendli ˈfeɪsɪz	和善的面孔
+no nuts	nəʊ nʌts	不要坚果
+grocery stores	ˈɡrəʊsəri stɔːz	杂货铺
+egg cartons	eɡ ˈkɑːtn̩z	装蛋盒
+juice bottles	dʒuːs ˈbɒtl̩z	果汁瓶
+electricity supply	ɪˌlekˈtrɪsɪti səˈplaɪ	电力供应
+protection policy	prəˈtekʃn̩ ˈpɒləsi	保护政策
+group booking discount	ɡruːp ˈbʊkɪŋ ˈdɪskaʊnt	团购优惠
+sick pay	sɪk peɪ	病假工资
+van driver	væn ˈdraɪvə	厢式货车司机
+leather shoes	ˈleðə ʃuːz	皮鞋
+advertising company	ˈædvətaɪzɪŋ ˈkʌmpəni	广告公司
+teaching venue	ˈtiːtʃɪŋ ˈvenjuː	授课地点
+total payment	ˈtəʊtl̩ ˈpeɪmənt	总费用
+vegetarian food	ˌvedʒɪˈteərɪən fuːd	素食
+different performers	ˈdɪfrənt pəˈfɔːməz	不同的表演者
+new opera	njuː ˈɒprə	新戏剧
+fridge model	frɪdʒ ˈmɒdl̩	冰箱型号
+top mount	tɒp maʊnt	一种冰箱型号
+financial loss	faɪˈnænʃl̩ lɒs	金融损失
+on the rack	ɒn ðə ræk	在架子上
+long strap	ˈlɒŋ stræp	长带子
+leather jacket	ˈleðə ˈdʒækɪt	皮夹克
+total value	ˈtəʊtl̩ ˈvæljuː	总价值
+public outskirts	ˈpʌblɪk ˈaʊtskɜːts	公共郊区
+customer service	ˈkʌstəmə ˈsɜːvɪs	顾客服务
+international express	ˌɪntəˈnæʃn̩əl ɪkˈspres	公司名称
+postal fee	ˈpəʊstl̩ fiː	邮费
+lost mails	lɒst meɪlz	丢失的邮件
+ID code numbers	ɪd kəʊd ˈnʌmbəz	身份代码
+student discount	ˈstjuːdnt ˈdɪskaʊnt	学生折扣
+comfortable shoes	ˈkʌmftəbl̩ ʃuːz	舒服的鞋
+daytime class	ˈdeɪtaɪm klɑːs	白天课程
+value of money	ˈvæljuː əv ˈmʌni	钱的价值
+in transit	ɪn ˈtrænsɪt	转机中
+length of waiting	leŋθ əv ˈweɪtɪŋ	等待时间
+electronic game centre	ˌɪlekˈtrɒnɪk ɡeɪm ˈsentə	电玩中心
+free recipe	friː ˈresəpi	免费配方
+Asian cooking class	ˈeɪdʒn̩ ˈkʊkɪŋ klɑːs	亚洲厨师班
+conference centre	ˈkɒnfərəns ˈsentə	会议中心
+business companies	ˈbɪznəs ˈkʌmpənɪz	商业公司
+inconvenient location	ˌɪnkənˈviːnɪənt ləʊˈkeɪʃn̩	不方便的位置
+basic package	ˈbeɪsɪk ˈpækɪdʒ	基本套餐
+good performance	ɡʊd pəˈfɔːməns	好的表现
+public show	ˈpʌblɪk ʃəʊ	公开表演
+vocal class	ˈvəʊkl̩ klɑːs	声乐班
+course fee	kɔːs fiː	课程费用
+personal tutor	ˈpɜːsənl̩ ˈtjuːtə	私人老师，个人辅导老师
+ozone layer	ˈəʊzəʊn ˈleɪə	臭氧层
+coastal roads	ˈkəʊstl̩ rəʊdz	沿海公路
+changing room	ˈtʃeɪndʒɪŋ ruːm	更衣室
+extra transportation cost	ˈekstrə ˌtrænspɔːˈteɪʃn̩ kɒst	额外的运输成本
+personal use	ˈpɜːsənl̩ ˈjuːs	个人使用
+baseball coach	ˈbeɪsbɔːl kəʊtʃ	棒球教练
+side gate	saɪd ɡeɪt	侧门
+central heating	ˈsentrəl ˈhiːtɪŋ	中央供暖
+green ride	ˈɡriːn raɪd	绿色骑行
+child seat	tʃaɪld siːt	儿童座椅
+job agency	dʒɒb ˈeɪdʒənsi	职业介绍所
+temporary staff	ˈtemprəri stɑːf	临时雇员
+registration process	ˌredʒɪˈstreɪʃn̩ ˈprəʊses	注册过程
+agency representatives	ˈeɪdʒənsi ˌreprɪˈzentətɪvz	代理商代表
+interpersonal skills	ˌɪntəˈpɜːsənl̩ skɪlz	人际交往能力
+computer literate	kəmˈpjuːtə ˈlɪtərət	精通计算机
+customer service	ˈkʌstəmə ˈsɜːvɪs	客户服务
+season ticket	ˈsiːzn̩ ˈtɪkɪt	季票
+road runner	rəʊd ˈrʌnə	跑步者
+
+# 11.2
+canoe	kəˈnuː	独木舟
+labels	ˈleɪbl̩z	标签
+luxury	ˈlʌkʃəri	奢华
+lock-up	ˈlɒkʌp	带锁的
+ferries	ˈferɪz	轮渡
+comfortable	ˈkʌmftəbl̩	舒适的
+preservation	ˌprezəˈveɪʃn̩	保留，保存
+authority	ɔːˈθɒrəti	权威
+flamingo	fləˈmɪŋɡəʊ	火烈鸟
+trails	treɪlz	踪迹
+altitude	ˈæltɪtjuːd	高度
+vegetation	ˌvedʒɪˈteɪʃn̩	植被
+calligraphy	kəˈlɪɡrəfi	书法
+layout	ˈleɪaʊt	布局
+format	ˈfɔːmæt	格式
+flooding	ˈflʌdɪŋ	泛滥
+rural	ˈrʊərəl	乡下的
+hard-working	ˈhɑːdˌwɜːkɪŋ	刻苦的
+torch	tɔːtʃ	火炬
+sack	sæk	解雇，麻袋
+souvenirs	ˌsuːvəˈnɪəz	纪念品
+funnel	ˈfʌnl̩	漏斗
+rendezvous	ˈrɒndɪvuːz	约定地点
+vetting	ˈvetɪŋ	审核
+acknowledgement	əkˈnɒlɪdʒmənt	鸣谢
+wildlife	ˈwaɪldlaɪf	野生动物
+hostel	ˈhɒstl̩	旅店
+water-ride	<water-ride>	激流勇进
+rollercoaster	ˈrolərˌkostə	过山车
+anniversary	ˌænɪˈvɜːsəri	周年
+committee	kəˈmɪti	委员会
+off-peak	ˈɒf piːk	非高峰的
+towel	ˈtaʊəl	毛巾
+all-in	ˈɔːlˈɪn	包括一切的
+hovercraft	ˈhɒvəkrɑːft	气垫船
+roadworthy	ˈrəʊdwɜːði	适合上路的
+overfill	ˈəʊvəˌfɪl	填满
+archaeology	ˌɑːkiˈɒlədʒi	考古学
+classification	ˌklæsɪfɪˈkeɪʃn̩	分类
+coursework	ˈkɔːswɜːk	课程
+cranberry	ˈkrænbəri	蔓越莓
+documentary	ˌdɒkjʊˈmentəri	纪录片
+dustbin	ˈdʌstbɪn	垃圾箱
+garbage	ˈɡɑːbɪdʒ	垃圾
+dirt	dɜːt	灰尘
+fernery	ˈfɜːnəri	蕨类植物
+corrections	kəˈrekʃn̩z	改正
+theoretical	θɪəˈretɪkl̩	理论的
+region	ˈriːdʒən	地区
+assignment	əˈsaɪnmənt	作业
+miniature	ˈmɪnɪtʃə	缩微景观
+biscuit	ˈbɪskɪt	饼干
+meadow	ˈmedəʊ	草地
+digestive	dɪˈdʒestɪv	消化的
+fertilizer	ˈfɜːtəlaɪzə	肥料
+rabbit	ˈræbɪt	兔子
+trash	træʃ	垃圾
+nutrition	njuːˈtrɪʃn̩	营养
+aging	ˈeɪdʒɪŋ	老化的
+hothouse	ˈhɒthaʊs	温室
+habitat	ˈhæbɪtæt	栖息地
+procedure	prəˈsiːdʒə	程序
+budget	ˈbʌdʒət	预算
+proposal	prəˈpəʊzl̩	提议
+pavement	ˈpeɪvmənt	路面，人行道
+restriction	rɪˈstrɪkʃn̩	限制
+cookery	ˈkʊkəri	烹饪
+calorie	ˈkæləri	卡路里
+noticeable	ˈnəʊtɪsəbl̩	显著的
+visibility	ˌvɪzəˈbɪlɪti	能见度
+congestion	kənˈdʒestʃən	拥塞
+fume	fjuːm	烟雾
+modify	ˈmɒdɪfaɪ	修改
+fortune	ˈfɔːtʃuːn	财富
+reptile	ˈreptaɪl	爬行动物
+territory	ˈterɪtr̩i	领土
+monogamous	məˈnɒɡəməs	一夫一妻制的
+avoidance	əˈvɔɪdəns	回避
+aspiration	ˌæspəˈreɪʃn̩	渴望
+aerobic	eəˈrəʊbɪk	有氧的
+expedition	ˌekspɪˈdɪʃn̩	远足
+maths	mæθs	数学
+phonebook	<phonebook>	电话簿
+nitrogen	ˈnaɪtrədʒən	氮气
+rack	ræk	支架
+eggplant	ˈeɡplɑːnt	茄子
+shellfish	ˈʃelfɪʃ	贝类
+bakery	ˈbeɪkəri	面包店
+advisor	ædˈvaɪzə	顾问
+vehicle	ˈviːɪkl̩	汽车
+lorry	ˈlɒri	卡车
+inconvenience	ˌɪnkənˈviːnɪəns	不方便
+module	ˈmɒdjuːl	模块
+newsagent's	ˈnjuːzeɪdʒəntɪz	报刊杂志店
+promotion	prəˈməʊʃn̩	促销活动
+transformation	ˌtrænsfəˈmeɪʃn̩	转型，转变
+petitions	pɪˈtɪʃn̩z	请愿书
+occasional	əˈkeɪʒənl̩	偶然的
+boundary	ˈbaʊndri	边界
+visible	ˈvɪzəbl̩	可见
+maze	meɪz	迷宫
+circular	ˈsɜːkjʊlə	圆的
+hedges	ˈhedʒɪz	树篱
+gardeners	ˈɡɑːdnəz	园丁
+scheme	skiːm	方案
+warden	ˈwɔːdn̩	看守
+minority	maɪˈnɒrɪti	少数
+supportive	səˈpɔːtɪv	支持的
+fantastic	fænˈtæstɪk	神奇的，极好的
+destinations	ˌdestɪˈneɪʃn̩z	目的地
+fascinating	ˈfæsɪneɪtɪŋ	迷人的
+option	ˈɒpʃn̩	选项
+supplement	ˈsʌplɪment	补充
+alternative	ɔːlˈtɜːnətɪv	替代的
+parliament	ˈpɑːləmənt	议会
+promenade	ˌprɒməˈnɑːd	沿海步道
+highlight	ˈhaɪlaɪt	突出
+medieval	ˌmedɪˈiːvl̩	中世纪的
+subcommittee	ˈsʌbkəmɪti	小组委员会
+overview	ˈəʊvəvjuː	概观
+assortment	əˈsɔːtmənt	品种
+ramp	ræmp	坡道，匝道
+constant	ˈkɒnstənt	不变的
+bend	bend	弯曲
+stream	striːm	流
+irrespective	ˌɪrɪˈspektɪv	不管的
+disastrous	dɪˈzɑːstrəs	惨重的
+tropical	ˈtrɒpɪkl̩	热带的
+grateful	ˈɡreɪtfəl	感激的
+solar pump	ˈsəʊlə pʌmp	太阳能泵
+urban garden	ˈɜːbən ˈɡɑːdn̩	城市公园
+visitor centre	ˈvɪzɪtə ˈsentə	访客中心
+special feature	ˈspeʃl̩ ˈfiːtʃə	特点
+unaccompanied children	ˌʌnəˈkʌmpənɪd ˈtʃɪldrən	无人陪伴儿童
+under-age children	ˌʌndərˈeɪdʒ ˈtʃɪldrən	未适龄儿童
+racing car	ˈreɪsɪŋ kɑː	赛车
+comment card	ˈkɒment kɑːd	意见卡
+booking form	ˈbʊkɪŋ ˈfɔːm	预订表格
+cabin keys	ˈkæbɪn kiːz	客舱钥匙
+room services	ruːm ˈsɜːvɪsɪz	客房服务
+after formality	ˈɑːftə fɔːˈmæləti	寒暄后
+music video	ˈmjuːzɪk ˈvɪdɪəʊ	音乐视频
+camera man	ˈkæmərə mæn	摄像师
+traffic noise	ˈtræfɪk nɔɪz	交通噪音
+sculpture garden	ˈskʌlptʃə ˈɡɑːdn̩	雕塑花园
+oil painting	ɔɪl ˈpeɪntɪŋ	油画
+quarantine service	ˈkwɒrəntiːn ˈsɜːvɪs	检疫服务
+postal items	ˈpəʊstl̩ ˈaɪtəmz	邮政物件
+plant seeds	plɑːnt siːdz	植物种子
+live music	laɪv ˈmjuːzɪk	现场音乐
+meeting point	ˈmiːtɪŋ pɔɪnt	碰头地点
+craft fair	krɑːft feə	手工艺品集市
+fringe stage	frɪndʒ steɪdʒ	额外展台
+exhibitor entrance	ɪɡˈzɪbɪtər ɪnˈtrɑːns	展览者入口
+arm badge	ɑːm bædʒ	袖标，手环
+academic record	ˌækəˈdemɪk rɪˈkɔːd	学术记录
+class representative	klɑːs ˌreprɪˈzentətɪv	班级代表
+local artists	ˈləʊkl̩ ˈɑːtɪsts	当地艺术家
+river taxi	ˈrɪvə ˈtæksi	摆渡船
+traffic jam	ˈtræfɪk dʒæm	堵车
+traffic lights	ˈtræfɪk laɪts	交通灯
+calling fee	ˈkɔːlɪŋ fiː	电话费
+computer breakdown	kəmˈpjuːtə ˈbreɪkdaʊn	电脑死机
+express trains	ɪkˈspres treɪnz	高速列车
+high winds	haɪ wɪndz	疾风
+self-cafeteria	<self-cafeteria>	自助餐厅
+local hero	ˈləʊkl̩ ˈhɪərəʊ	当地的英雄
+European painting	ˌjʊərəˈpɪən ˈpeɪntɪŋ	欧洲画作
+learning zone	ˈlɜːnɪŋ zəʊn	学习区
+historical photograph	hɪˈstɒrɪkl̩ ˈfəʊtəɡrɑːf	历史摄影
+cinema zone	ˈsɪnəmə zəʊn	电影区
+coffee shop	ˈkɒfi ʃɒp	咖啡店
+garden tools	ˈɡɑːdn̩ tuːlz	园艺工具
+garden pots	ˈɡɑːdn̩ pɒts	洒水壶，花园罐子
+tap water	tæp ˈwɔːtə	自来水
+professional knowledge	prəˈfeʃnəl ˈnɒlɪdʒ	专业知识
+special buses	ˈspeʃl̩ ˈbʌsɪz	特殊巴士
+education facilities	ˌedʒʊˈkeɪʃn̩ fəˈsɪlɪtɪz	教育设施
+order form	ˈɔːdə ˈfɔːm	预订表格
+check number	tʃek ˈnʌmbə	核对数目
+signed delivery note	saɪnd dɪˈlɪvəri nəʊt	签署过的交货通知
+unappealing appearance	ˌʌnəˈpiːlɪŋ əˈpɪərəns	无吸引力的外表
+black swans	blæk swɒnz	黑天鹅
+historical exhibition	hɪˈstɒrɪkl̩ ˌeksɪˈbɪʃn̩	历史展览
+hot meal	hɒt miːl	热食
+head office	hed ˈɒfɪs	总部
+music room	ˈmjuːzɪk ruːm	音乐室
+classroom tour	ˈklæsruːm tʊə	参观教室
+tea and coffee	tiː ənd ˈkɒfi	茶和咖啡
+chess club	tʃes klʌb	象棋俱乐部
+monthly magazines	ˈmʌnθli ˌmæɡəˈziːnz	月刊
+animal life	ˈænɪml̩ laɪf	动物生活
+social event	ˈsəʊʃl̩ ɪˈvent	社交活动
+annual report	ˈænjuəl rɪˈpɔːt	年度报告
+spare socks	speə ˈsɒks	备用袜子
+total block	ˈtəʊtl̩ ˈblɒk	防晒霜
+local museum	ˈləʊkl̩ mjuːˈzɪəm	当地博物馆
+secondary project	ˈsekəndri prəˈdʒekt	次要项目
+late afternoon	leɪt ˌɑːftəˈnuːn	傍晚
+back entrance	ˈbæk ɪnˈtrɑːns	后门
+storage space	ˈstɔːrɪdʒ speɪs	储物空间
+emergency button	ɪˈmɜːdʒənsi ˈbʌtn̩	紧急按钮
+hot spring	hɒt sprɪŋ	温泉
+disabled people	dɪsˈeɪbl̩d ˈpiːpl̩	残疾人
+specific period	spəˈsɪfɪk ˈpɪərɪəd	特定时期
+minimum period	ˈmɪnɪməm ˈpɪərɪəd	最小周期
+health check	helθ tʃek	健康检查
+sports equipment	spɔːts ɪˈkwɪpmənt	体育装备
+town hall	taʊn hɔːl	市政大厅
+baby kangaroo	ˈbeɪbi ˌkæŋɡəˈruː	小袋鼠
+part-time job	ˈpɑːt taɪm dʒɒb	业余工作
+business courses	ˈbɪznəs ˈkɔːsɪz	商科课程
+senior staff	ˈsiːnɪə stɑːf	高级员工
+English channel	ˈɪŋɡlɪʃ ˈtʃænl̩	英吉利海峡
+tropical zone	ˈtrɒpɪkl̩ zəʊn	热带地区
+tower view	ˈtaʊə vjuː	高塔视野
+elephant zone	ˈelɪfənt zəʊn	大象区域
+travel centre	ˈtrævl̩ ˈsentə	旅游信息中心
+travel package	ˈtrævl̩ ˈpækɪdʒ	旅行行李
+budget trip	ˈbʌdʒət trɪp	预订旅行
+long vacation	ˈlɒŋ vəˈkeɪʃn̩	长假期
+supportive atmosphere	səˈpɔːtɪv ˈætməsfɪə	声援气氛
+store room	stɔː ruːm	储藏室
+coffee machine	ˈkɒfi məˈʃiːn	咖啡机
+front desk	frʌnt desk	前台
+seating area	ˈsiːtɪŋ ˈeəriə	休息区
+local residents	ˈləʊkl̩ ˈrezɪdənts	当地居民
+board games	bɔːd ɡeɪmz	桌游
+massage room	ˈmæsɑːʒ ruːm	按摩室
+equal length	ˈiːkwəl leŋθ	同样长度
+training course	ˈtreɪnɪŋ kɔːs	训练课程
+tutorial fee	tjuːˈtɔːrɪəl fiː	辅导费用
+administration officer	ədˌmɪnɪˈstreɪʃn̩ ˈɒfɪsə	管理员
+security officer	sɪˈkjʊərɪti ˈɒfɪsə	安保人员
+fire drill	ˈfaɪə drɪl	火灾演练
+card making	kɑːd ˈmeɪkɪŋ	卡片制作
+interior design	ɪnˈtɪərɪə dɪˈzaɪn	内部设计
+water colour painting	ˈwɔːtə ˈkʌlə ˈpeɪntɪŋ	水彩画
+venue change	ˈvenjuː tʃeɪndʒ	地点转移
+minimum age	ˈmɪnɪməm eɪdʒ	最小年龄
+regional competition	ˈriːdʒənl̩ ˌkɒmpəˈtɪʃn̩	地区竞赛
+special price	ˈspeʃl̩ praɪs	特殊价格
+mixed age	mɪkst eɪdʒ	混合年龄
+government fund	ˈɡʌvənmənt fʌnd	政府资金
+local community	ˈləʊkl̩ kəˈmjuːnɪti	当地居民
+control room	kənˈtrəʊl ruːm	控制室
+waiting room	ˈweɪtɪŋ ruːm	等候室
+cup cleaning	kʌp ˈkliːnɪŋ	杯子清理
+animal protection	ˈænɪml̩ prəˈtekʃn̩	动物保护
+reset button	ˌriːˈset ˈbʌtn̩	重置按钮
+experience skills	ɪkˈspɪərɪəns skɪlz	经验技能
+contact number	ˈkɒntækt ˈnʌmbə	联系电话
+art museum	ɑːt mjuːˈzɪəm	艺术博物馆
+stunning view	ˈstʌnɪŋ vjuː	优美风景
+street art	striːt ɑːt	街头艺术
+horseback riding	ˈhɔːsbæk ˈraɪdɪŋ	骑马
+tent accommodation	tent əˌkɒməˈdeɪʃn̩	帐篷住宿
+wild animals	waɪld ˈænɪml̩z	野生动物
+stress level	stres ˈlevl̩	压力水平
+fancy dress	ˈfænsi dres	炫酷的衣服
+family ticket	ˈfæmli ˈtɪkɪt	家庭套票
+concert room	kənˈsɜːt ruːm	小音乐厅
+weather observing	ˈweðər əbˈzɜːvɪŋ	天气观察
+free transportation	friː ˌtrænspɔːˈteɪʃn̩	免费交通
+fitness centre	ˈfɪtnəs ˈsentə	健身中心
+thick trousers	θɪk ˈtraʊzəz	厚裤子
+shuttle bus	ˈʃʌtl̩ bʌs	班车
+virtual volunteer	ˈvɜːtʃʊəl ˌvɒlənˈtɪə	网络志愿者
+feed animals	fiːd ˈænɪml̩z	喂动物
+cake factory	keɪk ˈfæktəri	蛋糕厂
+smoke alarm	sməʊk əˈlɑːm	烟雾报警
+lookout point	ˈlʊkaʊt pɔɪnt	观景台
+face painting	feɪs ˈpeɪntɪŋ	脸谱
+member restaurant	ˈmembə ˈrestrɒnt	会员餐厅
+gallery shop	ˈɡæləri ʃɒp	画廊
+food containers	fuːd kənˈteɪnəz	食物容器
+good shoes	ɡʊd ʃuːz	好鞋
+formal clothes	ˈfɔːml̩ kləʊðz	正装
+dance show	dɑːns ʃəʊ	舞蹈表演
+delivery note	dɪˈlɪvəri nəʊt	交付单
+mountain climbing	ˈmaʊntɪn ˈklaɪmɪŋ	爬山
+coach trip	kəʊtʃ trɪp	训练旅程
+bush fire	bʊʃ ˈfaɪə	丛林火灾
+attraction zone	əˈtrækʃn̩ zəʊn	景区
+handle animals	ˈhændl̩ ˈænɪml̩z	驯养动物
+good washing facilities	ɡʊd ˈwɒʃɪŋ fəˈsɪlɪtɪz	高效清洁设备
+trial test	ˈtraɪəl ˈtest	模拟测试
+provisional license	prəˈvɪʒənl̩ ˈlaɪsns	临时证件
+practical theory	ˈpræktɪkl̩ ˈθɪəri	实际理论
+pretzel factory	ˈpretsl̩ ˈfæktəri	饼干厂
+train ride	treɪn raɪd	火车之旅
+prepare refreshments	prɪˈpeə rɪˈfreʃmənts	准备点心
+weather forecast	ˈweðə ˈfɔːkɑːst	天气预报
+hot balloon	hɒt bəˈluːn	热气球
+family-fast-line track ticket	<family-fast-line> træk ˈtɪkɪt	家庭快线票
+fast line ticket	fɑːst laɪn ˈtɪkɪt	快速通道票
+cowboy show ride	ˈkaʊbɔɪ ʃəʊ raɪd	牛仔表演之旅
+herbal treatment	ˈhɜːbl̩ ˈtriːtmənt	草药治疗
+skating rink	ˈskeɪtɪŋ rɪŋk	溜冰场
+one-to-one coach	<one-to-one> kəʊtʃ	一对一教练
+introductory price	ˌɪntrəˈdʌktəri praɪs	入门价格
+gym room	dʒɪm ruːm	健身房
+heart monitor	hɑːt ˈmɒnɪtə	心脏监视器
+free massage	friː ˈmæsɑːʒ	免费按摩
+water bottle	ˈwɔːtə ˈbɒtl̩	水瓶
+beach front view	biːtʃ frʌnt vjuː	沙滩前景
+bright fabric	braɪt ˈfæbrɪk	明亮织物
+well-known singer	ˈwel nəʊn ˈsɪŋə	知名歌手
+bottle collection	ˈbɒtl̩ kəˈlekʃn̩	瓶子收集
+ink cartridge	ɪŋk ˈkɑːtrɪdʒ	打印机墨盒
+picnic area	ˈpɪknɪk ˈeəriə	野餐区
+meal ticket	miːl ˈtɪkɪt	餐券
+fuel consumption	ˈfjuːəl kənˈsʌmpʃn̩	燃料消耗
+oil filter	ɔɪl ˈfɪltə	油滤器
+global travel	ˈɡləʊbl̩ ˈtrævl̩	全球旅行
+loss of instruments	lɒs əv ˈɪnstrʊmənts	仪器损失
+steer the boat	stɪə ðə bəʊt	掌船舵
+marine animals	məˈriːn ˈænɪml̩z	海洋动物
+marine history	məˈriːn ˈhɪstr̩i	海洋史
+meadow campsite	ˈmedəʊ ˈkæmpsaɪt	牧场野营地
+caravan park	ˈkærəvæn pɑːk	房车停车场
+green lounge	ˈɡriːn laʊndʒ	绿色躺椅
+cash point	kæʃ pɔɪnt	取款机，现金处
+unregistered taxi	ʌnˈredʒɪstəd ˈtæksi	黑车
+plastic bag	ˈplæstɪk bæɡ	塑料袋
+compulsory modules	kəmˈpʌlsəri ˈmɒdjuːlz	必修模块
+objective matters	əbˈdʒektɪv ˈmætəz	客观物质
+final score	ˈfaɪnl̩ skɔː	最后分数
+ancient history	ˈeɪnʃənt ˈhɪstr̩i	远古历史
+wooden peg	ˈwʊdn̩ peɡ	木头桩
+animal bones	ˈænɪml̩ bəʊnz	动物骨头
+roof scaffold	ruːf ˈskæfəʊld	房顶脚手架
+changing room	ˈtʃeɪndʒɪŋ ruːm	更衣室
+hospital comedy	ˈhɒspɪtl̩ ˈkɒmədi	医院喜剧
+family life	ˈfæmli laɪf	家庭生活
+science fiction	ˈsaɪəns ˈfɪkʃn̩	科幻片
+heavy stuff	ˈhevi stʌf	重物
+business district	ˈbɪznəs ˈdɪstrɪkt	商业区
+garden tools	ˈɡɑːdn̩ tuːlz	园艺工具
+exotic plants	ɪɡˈzɒtɪk plɑːnts	外国植物
+building materials	ˈbɪldɪŋ məˈtɪərɪəlz	建筑材料
+single session	ˈsɪŋɡl̩ ˈseʃn̩	单独课程
+English proficiency	ˈɪŋɡlɪʃ prəˈfɪʃnsi	英语熟练度
+police offence	pəˈliːs əˈfens	袭警
+traffic violation	ˈtræfɪk ˌvaɪəˈleɪʃn̩	违反交规
+practical elements	ˈpræktɪkl̩ ˈelɪmənts	实用元素
+tuition fees	tjuːˈɪʃn̩ fiːz	学费
+compulsory course	kəmˈpʌlsəri kɔːs	必修课
+agriculture fair	ˈæɡrɪˌkʌltʃə feə	农业集市
+annual report	ˈænjuəl rɪˈpɔːt	年报
+electric card	ɪˈlektrɪk kɑːd	电子卡
+solar panels	ˈsəʊlə ˈpænl̩z	太阳能板
+electric cooker	ɪˈlektrɪk ˈkʊkə	电子炊具
+gas cooker	ɡæs ˈkʊkə	煤气灶
+inquiry desk	ɪnˈkwaɪəri desk	问询台
+campus clinic	ˈkæmpəs ˈklɪnɪk	校医院
+local owners	ˈləʊkl̩ ˈəʊnəz	当地所有者
+clothes manufacturing	kləʊðz ˌmænjʊˈfæktʃərɪŋ	服装制作
+professional model	prəˈfeʃnəl ˈmɒdl̩	专业模特
+fashion exhibition	ˈfæʃn̩ ˌeksɪˈbɪʃn̩	时尚展览
+limited time	ˈlɪmɪtɪd ˈtaɪm	有限的时间
+toy train	tɔɪ treɪn	玩具火车
+gift shop	ɡɪft ʃɒp	礼品店
+free locker	friː ˈlɒkə	免费储物柜
+personal belongings	ˈpɜːsənl̩ bɪˈlɒŋɪŋz	个人物品
+curriculum vitae	kəˈrɪkjʊləm ˈvaɪtiː	简历
+volunteer list	ˌvɒlənˈtɪə lɪst	志愿者名单
+luggage lockers	ˈlʌɡɪdʒ ˈlɒkəz	行李柜
+bike racks	baɪk ræks	自行车架
+waiting room	ˈweɪtɪŋ ruːm	等候室
+test room	ˈtest ruːm	考场
+meadow campsite	ˈmedəʊ ˈkæmpsaɪt	草地露营地
+green lounge	ˈɡriːn laʊndʒ	绿色的休息室
+dinosaur bones	ˈdaɪnəsɔː bəʊnz	恐龙骨骼化石
+night tour trip	naɪt tʊə trɪp	夜游旅行
+artificial light	ˌɑːtɪˈfɪʃl̩ laɪt	人造光
+mineral resources	ˈmɪnərəl rɪˈzɔːsɪz	矿产资源
+racing car	ˈreɪsɪŋ kɑː	赛车
+face painting	feɪs ˈpeɪntɪŋ	面部彩绘
+wood of hazel	wʊd əv ˈheɪzl̩	榛树的木头
+building wood	ˈbɪldɪŋ wʊd	建筑木材
+heavy stuff	ˈhevi stʌf	重的东西
+annual report	ˈænjuəl rɪˈpɔːt	年度报告
+trade journals	treɪd ˈdʒɜːnl̩z	贸易期刊
+guest speaker	ɡest ˈspiːkə	特邀发言人
+residential area	ˌrezɪˈdenʃl̩ ˈeəriə	居住区
+troop exercises	truːp ˈeksəsaɪzɪz	军事演习
+wooden sculptures	ˈwʊdn̩ ˈskʌlptʃəz	木雕
+extended family	ɪkˈstendɪd ˈfæmli	大家庭
+related project	rɪˈleɪtɪd prəˈdʒekt	相关项目
+tour manager	tʊə ˈmænɪdʒə	旅游经理
+heritage sites	ˈherɪtɪdʒ saɪts	遗迹
+adventure playground	ədˈventʃə ˈpleɪɡraʊnd	冒险公园
+formal gardens	ˈfɔːml̩ ˈɡɑːdn̩z	正式花园
+wild flowers	waɪld ˈflaʊəz	野花
+palm trees	pɑːm triːz	棕榈树
+
+# 11.3
+rangers	ˈreɪndʒəz	护林员
+measurement	ˈmeʒəmənt	度量，测量
+voluntary	ˈvɒləntri	志愿的
+darkroom	ˈdɑːkruːm	暗室
+reflective	rɪˈflektɪv	反馈的
+portfolio	pɔːtˈfəʊlɪəʊ	资料
+fireplaces	ˈfaɪəpleɪsɪz	壁炉
+priority	praɪˈɒrɪti	优先
+verbalization	<verbalization>	冗长
+nest	nest	巢穴
+evaporation	ɪˌvæpəˈreɪʃn̩	蒸发
+hive	haɪv	蜂房
+conservation	ˌkɒnsəˈveɪʃn̩	保护
+networkers	<networkers>	网络人员
+ecosystem	ˈiːkəʊsɪstəm	生态系统
+flexibility	ˌfleksəˈbɪlɪti	灵活性
+forestry	ˈfɒrəstri	林业
+literature	ˈlɪtrətʃə	文学
+regulator	ˈreɡjʊleɪtə	校准器
+hammer	ˈhæmə	锤子
+incubator	ˈɪnkjʊbeɪtə	孵化器
+workforce	ˈwɜːkfɔːs	工作力
+attachment	əˈtætʃmənt	附件
+stable	ˈsteɪbl̩	稳定的，马圈
+journal	ˈdʒɜːnl̩	杂志
+confidence	ˈkɒnfɪdəns	信心
+craftwork	<craftwork>	工艺品
+internship	ˈɪntərnˌʃɪp	实习
+workload	ˈwɜːkləʊd	工作量
+appendices	əˈpendɪsiːz	附件
+recreational	ˌrekrɪˈeɪʃnəl	休闲的
+mating	ˈmeɪtɪŋ	交配
+fabric	ˈfæbrɪk	织物
+cardiovascular	ˌkɑːdiəʊˈvæskjələ	心血管的
+feasibility	ˌfiːzəˈbɪlɪti	可行性
+evaluation	ɪˌvæljʊˈeɪʃn̩	预估
+collaborative	kəˈlæbərətɪv	合作的
+simulation	ˌsɪmjʊˈleɪʃn̩	仿真，模拟
+coverage-lettering	<coverage-lettering>	新闻报道字体
+precision	prɪˈsɪʒn̩	精密度
+originality	əˌrɪdʒəˈnæləti	创意，独创性
+objective	əbˈdʒektɪv	客观的
+pesticide	ˈpestɪsaɪd	杀虫剂
+fuels	ˈfjuːəlz	燃料
+weight	weɪt	重量
+respondents	rɪˈspɒndənts	回复者
+relevant	ˈreləvənt	相关的
+discipline	ˈdɪsɪplɪn	学科，纪律
+reliance	rɪˈlaɪəns	依赖
+ink	ɪŋk	墨水
+tourists	ˈtʊərɪsts	游客
+farming	ˈfɑːmɪŋ	耕作
+sample	ˈsɑːmpl̩	样本
+village	ˈvɪlɪdʒ	村子
+occupants	ˈɒkjʊpənts	居住者
+referee	ˌrefəˈriː	裁判
+limitations	ˌlɪmɪˈteɪʃn̩z	限制
+connectives	kəˈnektɪvz	连接词
+journalists	ˈdʒɜːnəlɪsts	记者
+publication	ˌpʌblɪˈkeɪʃn̩	出版物
+informality	ˌɪnfɔːˈmælɪti	非正式
+informative	ɪnˈfɔːmətɪv	告知的
+ideal	aɪˈdɪəl	理想的
+ascent	əˈsent	上升
+summit	ˈsʌmɪt	山峰，首脑会议
+firewood	ˈfaɪəwʊd	柴火
+stormy	ˈstɔːmi	暴风雨的
+proportion	prəˈpɔːʃn̩	比例
+dimension	dɪˈmenʃn̩	维度
+upheaval	ˌʌpˈhiːvəl	剧变
+adaptable	əˈdæptəbl̩	可适应的
+evolutionary	ˌiːvəˈluːʃnri	进化论的
+cognitive	ˈkɒɡnətɪv	认知
+commitment	kəˈmɪtmənt	承诺
+anatomy	əˈnætəmi	解剖
+counterpart	ˈkaʊntəpɑːt	对应部分
+sensitive	ˈsensətɪv	敏感的
+adaptation	ˌædæpˈteɪʃn̩	适应
+implication	ˌɪmplɪˈkeɪʃn̩	含义
+novice	ˈnɒvɪs	新手
+potential	pəˈtenʃl̩	潜在的
+annual	ˈænjuəl	每年的
+dismissive	dɪsˈmɪsɪv	轻蔑的
+adaptability	əˌdæptəˈbɪləti	适应性
+pigeon	ˈpɪdʒən	鸽子
+specimen	ˈspesɪmɪn	标本
+inclusion	ɪnˈkluːʒn̩	包含
+hibernation	ˌhaɪbəˈneɪʃn̩	冬眠
+hormone	ˈhɔːməʊn	荷尔蒙
+squirrel	ˈskwɪrəl	松鼠
+satisfaction	ˌsætɪsˈfækʃn̩	满意度
+chronological	ˌkrɒnəˈlɒdʒɪkl̩	按时间顺序的
+distracting	dɪˈstræktɪŋ	分散注意的
+semantic	sɪˈmæntɪk	语义的
+episodic	ˌepɪˈsɒdɪk	情节的
+strategy	ˈstrætədʒi	策略
+diploma	dɪˈpləʊmə	文凭
+profile	ˈprəʊfaɪl	个人简历
+awful	ˈɔːfl̩	可怕的
+syndrome	ˈsɪndrəʊm	综合征
+quotations	kwəʊˈteɪʃn̩z	报价单
+amusements	əˈmjuːzmənts	娱乐活动
+justice	ˈdʒʌstɪs	正义
+heroine	ˈherəʊɪn	女主角
+guardian	ˈɡɑːdɪən	监护人
+debtors	ˈdetəz	债务人
+traits	treɪts	特质
+stereotypes	ˈsterɪətaɪps	刻板印象
+robust	rəʊˈbʌst	强大的
+consensus	kənˈsensəs	共识
+sibling	ˈsɪbl̩ɪŋ	兄弟姐妹
+nightmare	ˈnaɪtmeə	噩梦
+envious	ˈenvɪəs	嫉妒的
+sociable	ˈsəʊʃəbl̩	善于交际的
+harsh	hɑːʃ	严厉的
+accurate	ˈækjərət	准确的
+status	ˈsteɪtəs	状态
+processes	ˈprəʊsesɪz	流程
+rivalry	ˈraɪvəlri	对抗
+annoying	əˈnɔɪɪŋ	烦人的
+refrigeration	rɪˌfrɪdʒəˈreɪʃn̩	冷藏
+straw	strɔː	稻草
+sawdust	ˈsɔːdʌst	锯末
+pits	pɪts	坑
+components	kəmˈpəʊnənts	组件
+manufacturers	ˌmænjʊˈfæktʃərəz	厂商
+chemicals	ˈkemɪkl̩z	化学药品
+competitors	kəmˈpetɪtəz	竞争者
+coverage	ˈkʌvərɪdʒ	覆盖范围
+graphics	ˈɡræfɪks	图形
+visual	ˈvɪʒuəl	视觉的
+misleading	ˌmɪsˈliːdɪŋ	误导的
+versions	ˈvɜːʃn̩z	版本
+controversy	ˈkɒntrəvɜːsi	争议
+ridiculous	rɪˈdɪkjʊləs	荒谬的
+assumptions	əˈsʌmpʃn̩z	假设
+editorials	ˌedɪˈtɔːrɪəlz	社论
+emotional	ɪˈməʊʃn̩əl	情感的
+funding	ˈfʌndɪŋ	资金
+group discussion marks	ɡruːp dɪˈskʌʃn̩ mɑːks	小组讨论分数
+middle term test	ˈmɪdl̩ tɜːm ˈtest	期中考试
+data analysis	ˈdeɪtə əˈnæləsɪs	数据分析
+photo statistics	ˈfəʊtəʊ stəˈtɪstɪks	照片统计
+extra time	ˈekstrə ˈtaɪm	额外时间
+communication system	kəˌmjuːnɪˈkeɪʃn̩ ˈsɪstəm	通信系统
+personal interest	ˈpɜːsənl̩ ˈɪntrəst	个人兴趣
+secretary of department	ˈsekrətəri əv dɪˈpɑːtmənt	部门秘书
+computer office	kəmˈpjuːtər ˈɒfɪs	电脑办公室
+past course materials	pɑːst kɔːs məˈtɪərɪəlz	之前课程材料
+international reputation	ˌɪntəˈnæʃn̩əl ˌrepjʊˈteɪʃn̩	国际声誉
+history research	ˈhɪstr̩i rɪˈsɜːtʃ	历史调查
+conference report	ˈkɒnfərəns rɪˈpɔːt	会议报告
+ground plan	ɡraʊnd plæn	平面图
+chat rooms	tʃæt ruːmz	聊天室
+computer skills	kəmˈpjuːtə skɪlz	电脑技能
+teaching staff	ˈtiːtʃɪŋ stɑːf	教职人员
+global listening	ˈɡləʊbl̩ ˈlɪsn̩ɪŋ	宏观听力
+eye contacts	aɪ ˈkɒntækts	眼神交流
+card catalog	kɑːd ˈkætəlɒɡ	卡片目录
+lack of soil	læk əv sɔɪl	缺土
+food pest	fuːd pest	食物害虫
+environmental damage	ɪnˌvaɪərənˈmentl̩ ˈdæmɪdʒ	环境危害
+food chain	fuːd tʃeɪn	食物链
+fill in worksheet	fɪl ɪn ˈwɜːkʃiːt	填工作单
+model guide	ˈmɒdl̩ ɡaɪd	模范导游
+video camera	ˈvɪdɪəʊ ˈkæmərə	摄像机
+measuring equipment	ˈmeʒərɪŋ ɪˈkwɪpmənt	测量设备
+natural ability	ˈnætʃrəl əˈbɪləti	自然能力
+good effort	ɡʊd ˈefət	努力
+leadership skill	ˈliːdəʃɪp skɪl	领导力
+accessible discussion	əkˈsesəbl̩ dɪˈskʌʃn̩	可参加的讨论
+braking system	ˈbreɪkɪŋ ˈsɪstəm	刹车系统
+environmental issues	ɪnˌvaɪərənˈmentl̩ ˈɪʃuːz	环境问题
+management of change	ˈmænɪdʒmənt əv tʃeɪndʒ	改变管理
+financial aids	faɪˈnænʃl̩ eɪdz	经济援助
+working style	ˈwɜːkɪŋ staɪl	工作类型
+late submission	leɪt səbˈmɪʃn̩	延迟提交
+lack of research	læk əv rɪˈsɜːtʃ	缺乏调查
+farming method	ˈfɑːmɪŋ ˈmeθəd	耕种方法
+knowledge sharing	ˈnɒlɪdʒ ˈʃeərɪŋ	知识共享
+uniform level	ˈjuːnɪfɔːm ˈlevl̩	同一水平
+seating capacity	ˈsiːtɪŋ kəˈpæsɪti	载客数
+picture framing	ˈpɪktʃə ˈfreɪmɪŋ	构图
+packing materials	ˈpækɪŋ məˈtɪərɪəlz	包装材料
+story conference	ˈstɔːri ˈkɒnfərəns	故事会议
+stage production	steɪdʒ prəˈdʌkʃn̩	舞台布置
+planning meeting	ˈplænɪŋ ˈmiːtɪŋ	计划会议
+videotape editor	ˈvɪdɪəʊteɪp ˈedɪtə	视频编辑
+population movement	ˌpɒpjʊˈleɪʃn̩ ˈmuːvmənt	人口流动
+interview method	ˈɪntəvjuː ˈmeθəd	面试方法
+exam preparation	ɪɡˈzæm ˌprepəˈreɪʃn̩	备考
+weaker students	ˈwiːkə ˈstjuːdnts	差生
+external organisation	ɪkˈstɜːnl̩ ˌɔːɡənəˈzeɪʃən	外部组织
+word limit	ˈwɜːd ˈlɪmɪt	字数限制
+internet connections	ˈɪntənet kəˈnekʃn̩z	网络连接
+professional learning	prəˈfeʃnəl ˈlɜːnɪŋ	专业学习
+in-class simulation	<in-class> ˌsɪmjʊˈleɪʃn̩	课内模拟
+video recording	ˈvɪdɪəʊ rɪˈkɔːdɪŋ	视频录制
+plastic bottle	ˈplæstɪk ˈbɒtl̩	塑料瓶
+residence hall	ˈrezɪdəns hɔːl	学生宿舍
+life science	laɪf ˈsaɪəns	生命科学
+financial planning	faɪˈnænʃl̩ ˈplænɪŋ	金融计划
+medical skills	ˈmedɪkl̩ skɪlz	医术
+customer relationship	ˈkʌstəmə rɪˈleɪʃnʃɪp	顾客关系
+department head	dɪˈpɑːtmənt hed	部门主管
+interview questions	ˈɪntəvjuː ˈkwestʃənz	面试问题
+identity card	aɪˈdentɪti kɑːd	识别卡
+dress code	dres kəʊd	着装要求
+preserve memories	prɪˈzɜːv ˈmemərɪz	保存记忆
+show off status	ʃəʊ ɒf ˈsteɪtəs	炫耀地位
+reflect tastes	rɪˈflekt teɪsts	体现品位
+personal identity	ˈpɜːsənl̩ aɪˈdentɪti	个人验证
+local community	ˈləʊkl̩ kəˈmjuːnɪti	当地社区
+storage warehouse	ˈstɔːrɪdʒ ˈweəhaʊs	仓库
+social information	ˈsəʊʃl̩ ˌɪnfəˈmeɪʃn̩	社会信息
+creative ideas	kriːˈeɪtɪv aɪˈdɪəz	创造性想法
+living expenses	ˈlɪvɪŋ ɪkˈspensɪz	生活花费
+survey methods	səˈveɪ ˈmeθədz	调查方式
+flour outlet	ˈflaʊə ˈaʊtlet	面粉出口
+permanent records	ˈpɜːmənənt rɪˈkɔːdz	永久记录
+optional course	ˈɒpʃnəl kɔːs	选修课
+drinking machines	ˈdrɪŋkɪŋ məˈʃiːnz	饮料机
+cash machine	kæʃ məˈʃiːn	验钞机
+laundry service	ˈlɔːndri ˈsɜːvɪs	洗衣服务
+photocopy office	ˈfəʊtəʊkɒpi ˈɒfɪs	影音室
+self-access lab	<self-access> læb	自主实验室
+electronic directory	ˌɪlekˈtrɒnɪk dɪˈrektəri	电子目录
+text structure	tekst ˈstrʌktʃə	文章结构
+digital history	ˈdɪdʒɪtl̩ ˈhɪstr̩i	数码史
+media studies	ˈmiːdɪə ˈstʌdɪz	媒体学习
+natural resources	ˈnætʃrəl rɪˈzɔːsɪz	自然资源
+environmental projects	ɪnˌvaɪərənˈmentl̩ ˈprɒdʒekts	环境项目
+global access	ˈɡləʊbl̩ ˈækses	全球通用
+listening task	ˈlɪsn̩ɪŋ tɑːsk	听力任务
+book loan	bʊk ləʊn	借书
+compulsory course	kəmˈpʌlsəri kɔːs	必修课
+full-time study	fʊl ˈtaɪm ˈstʌdi	全职学习
+flexible-time study	<flexible-time> ˈstʌdi	兼职学习
+active volcano	ˈæktɪv vɒlˈkeɪnəʊ	活火山
+extinct volcano	ɪkˈstɪŋt vɒlˈkeɪnəʊ	死火山
+cleaning products	ˈkliːnɪŋ ˈprɒdʌkts	清理产品
+placement test	ˈpleɪsmənt ˈtest	分班测试
+company premises	ˈkʌmpəni ˈpremɪsɪz	公司地址
+leisure activities	ˈleʒə ækˈtɪvətiz	休闲活动
+senior advisor	ˈsiːnɪə ædˈvaɪzə	高级顾问
+visual aids	ˈvɪʒuəl eɪdz	视觉辅助工具
+fossil remains	ˈfɒsl̩ rɪˈmeɪnz	残存化石
+human interference	ˈhjuːmən ˌɪntəˈfɪərəns	人为干扰
+natural routine work	ˈnætʃrəl ruːˈtiːn ˈwɜːk	日常工作
+coffee bar	ˈkɒfi bɑː	咖啡吧
+shop display	ʃɒp dɪˈspleɪ	商品展示
+personal service	ˈpɜːsənl̩ ˈsɜːvɪs	个人服务
+current study	ˈkʌrənt ˈstʌdi	当前研究
+video approach	ˈvɪdɪəʊ əˈprəʊtʃ	录像研究方法
+job opportunities	dʒɒb ˌɒpəˈtjuːnɪtɪz	工作机会
+higher fees	ˈhaɪə fiːz	更高价格
+borrowed language	ˈbɒrəʊd ˈlæŋɡwɪdʒ	外来语
+confidence building	ˈkɒnfɪdəns ˈbɪldɪŋ	建立自信
+numeracy skill	ˈnjuːmərəsi skɪl	计算能力
+networking opportunities	ˈnetwɜːkɪŋ ˌɒpəˈtjuːnɪtɪz	网络机遇
+research method	rɪˈsɜːtʃ ˈmeθəd	调查方式
+audio recording	ˈɔːdiəʊ rɪˈkɔːdɪŋ	音频录制
+lack of participation	læk əv pɑ:ˌtɪsɪˈpeɪʃn̩	缺乏参与
+community reference	kəˈmjuːnɪti ˈrefrəns	社区推荐信
+council meeting	ˈkaʊnsl̩ ˈmiːtɪŋ	议会会议
+renewable energy	rɪˈnjuːəbl̩ ˈenədʒi	再生资源
+nuclear plants	ˈnjuːklɪə plɑːnts	核电站
+traditional resource	trəˈdɪʃn̩əl rɪˈzɔːs	传统资源
+small electric equipment	smɔːl ɪˈlektrɪk ɪˈkwɪpmənt	小电子设备
+solar panel	ˈsəʊlə ˈpænl̩	太阳能电池板
+sports shoes	spɔːts ʃuːz	运动鞋
+poor paying	pʊə ˈpeɪɪŋ	报酬低的
+overseas training	ˌəʊvəˈsiːz ˈtreɪnɪŋ	海外训练
+no chemical reaction	nəʊ ˈkemɪkl̩ rɪˈækʃn̩	无化学反应
+current material	ˈkʌrənt məˈtɪərɪəl	现有材料
+brief notes	briːf nəʊts	简要记录
+supportive atmosphere	səˈpɔːtɪv ˈætməsfɪə	互助气氛
+essential training	ɪˈsenʃl̩ ˈtreɪnɪŋ	基本训练
+university support staff	ˌjuːnɪˈvɜːsɪti səˈpɔːt stɑːf	大学服务人员
+background reading	ˈbækɡraʊnd ˈriːdɪŋ	背景阅读
+online forum	ˈɒnˌlaɪn ˈfɔːrəm	在线论坛
+soil sample	sɔɪl ˈsɑːmpl̩	土壤样本
+blood pressure	blʌd ˈpreʃə	血压
+stress level	stres ˈlevl̩	压力级别
+school stadiums	skuːl ˈsteɪdɪəmz	校体育馆
+school gym	skuːl dʒɪm	校健身房
+less oxygen	les ˈɒksɪdʒən	缺氧
+accurate date	ˈækjərət deɪt	确切日期
+similar age	ˈsɪmələr eɪdʒ	相似年龄
+sports activities	spɔːts ækˈtɪvətiz	体育活动
+art institution	ɑːt ˌɪnstɪˈtjuːʃn̩	艺术机构
+abstract design	ˈæbstrækt dɪˈzaɪn	抽象设计
+largest proportion	ˈlɑːdʒɪst prəˈpɔːʃn̩	最大比例
+observation checklist	ˌɒbzəˈveɪʃn̩ ˈtʃeklɪst	观察清单
+non-observation method	<non-observation> ˈmeθəd	非观察手段
+test results	ˈtest rɪˈzʌlts	测试结果
+original jewellery	əˈrɪdʒn̩əl ˈdʒuːəlri	原样珠宝
+wood curve	wʊd kɜːv	木材弯曲
+crisis management	ˈkraɪsɪs ˈmænɪdʒmənt	危机管理
+monitoring progress	ˈmɒnɪtərɪŋ prəˈɡres	监管进程
+program assessment	ˈprəʊɡræm əˈsesmənt	程序评定
+team building	tiːm ˈbɪldɪŋ	团队建设
+budget management	ˈbʌdʒət ˈmænɪdʒmənt	预算管理
+finding investment	ˈfaɪndɪŋ ɪnˈvestmənt	寻找投资
+insufficient revenue	ˌɪnsəˈfɪʃnt ˈrevənjuː	财政收入不足
+food shortage	fuːd ˈʃɔːtɪdʒ	食物缺乏
+power cut	ˈpaʊə kʌt	停电
+visual guidance	ˈvɪʒuəl ˈɡaɪdns	视觉引导
+information resources	ˌɪnfəˈmeɪʃn̩ rɪˈzɔːsɪz	信息来源
+reference letter	ˈrefrəns ˈletə	推荐信
+flexible study time	ˈfleksəbl̩ ˈstʌdi ˈtaɪm	灵活的学习时间
+lab facilities	læb fəˈsɪlɪtɪz	实验室设备
+medicine science	ˈmedsn̩ ˈsaɪəns	医学
+engine capacity	ˈendʒɪn kəˈpæsɪti	发动机容量
+greater utility	ˈɡreɪtə juːˈtɪlɪti	更大的用处
+safe car	seɪf kɑː	安全车辆
+extra height	ˈekstrə haɪt	额外高度
+field of vision	fiːld əv ˈvɪʒn̩	视野
+commercial applications	kəˈmɜːʃl̩ ˌæplɪˈkeɪʃn̩z	商业应用
+economic purpose	ˌiːkəˈnɒmɪk ˈpɜːpəs	经济目的
+higher cost	ˈhaɪə kɒst	更高成本
+cost of insurance	kɒst əv ɪnˈʃʊərəns	保险费用
+destination desert	ˌdestɪˈneɪʃn̩ ˈdezət	目的地沙漠
+marine desert	məˈriːn ˈdezət	海洋沙漠
+social interactions	ˈsəʊʃl̩ ˌɪntəˈrækʃn̩z	社会交往
+unexpected noise	ˌʌnɪkˈspektɪd nɔɪz	未预料的噪声
+unbalanced skill improvements	ʌnˈbælənst skɪl ɪmˈpruːvmənts	不平衡的技能提高
+gradual way	ˈɡrædʒʊəl ˈweɪ	渐进的方式
+job responsibilities	dʒɒb rɪˌspɒnsəˈbɪlɪtɪz	工作责任
+local faculty	ˈləʊkl̩ ˈfæklti	当地部门
+material background	məˈtɪərɪəl ˈbækɡraʊnd	材料背景
+unanswered questions	ˌʌnˈɑːnsəd ˈkwestʃənz	未回答的问题
+standard format	ˈstændəd ˈfɔːmæt	标准格式
+practical knowledge	ˈpræktɪkl̩ ˈnɒlɪdʒ	实用知识
+business journalism	ˈbɪznəs ˈdʒɜːnəlɪzəm	商务新闻
+scientific term	ˌsaɪənˈtɪfɪk tɜːm	科学术语
+childish language	ˈtʃaɪldɪʃ ˈlæŋɡwɪdʒ	幼稚的语言
+seed germination	siːd ˌdʒɜːmɪˈneɪʃn̩	种子发芽
+objective matters	əbˈdʒektɪv ˈmætəz	客观的问题
+housing project	ˈhaʊzɪŋ prəˈdʒekt	住宅项目
+colors and fonts	ˈkʌlərz ənd fɒnts	颜色和字体
+book allowance	bʊk əˈlaʊəns	图书津贴
+greater utility	ˈɡreɪtə juːˈtɪlɪti	更大的效用
+unexpected noise	ˌʌnɪkˈspektɪd nɔɪz	意想不到的噪音
+open day	ˈəʊpən ˈdeɪ	开放日
+social reforms	ˈsəʊʃl̩ rɪˈfɔːmz	社会改革
+academic performance	ˌækəˈdemɪk pəˈfɔːməns	学业成绩
+household appliances	ˈhaʊshəʊld əˈplaɪənsɪz	家用设备
+conflicting opinions	kənˈflɪktɪŋ əˈpɪnɪənz	意见冲突
+
+# 11.4
+code	kəʊd	密码
+maximum	ˈmæksɪməm	最大的，最多的
+coconut	ˈkəʊkənʌt	椰子
+mould	məʊld	模具
+elastic	ɪˈlæstɪk	有弹性的
+vertical	ˈvɜːtɪkl̩	垂直的
+accountable	əˈkaʊntəbl̩	有责任的
+decisions	dɪˈsɪʒn̩z	决定
+seasonal	ˈsiːzənl̩	季节的
+herds	hɜːdz	群
+clay	kleɪ	土
+eco-cement	<eco-cement>	生态水泥
+nuts	nʌts	坚果
+arrows	ˈærəʊz	箭头
+spears	spɪəz	矛
+concentrated	ˈkɒnsəntreɪtɪd	集中的
+shipping	ˈʃɪpɪŋ	运输
+germs	dʒɜːmz	细菌
+corn	kɔːn	玉米
+insects	ˈɪnsekts	昆虫
+coastline	ˈkəʊstlaɪn	海岸线
+critical	ˈkrɪtɪkl̩	批判的，至关重要的
+cognition	kɒɡˈnɪʃn̩	认识
+emotion	ɪˈməʊʃn̩	感情，情绪
+intelligence	ɪnˈtelɪdʒəns	情报，智力
+connected	kəˈnektɪd	连接的
+self-centred	self ˈsentəd	自我的
+passive	ˈpæsɪv	消极的，被动的
+stimulation	ˌstɪmjʊˈleɪʃn̩	剌激，鼓励
+lid	lɪd	盖子
+gravity	ˈɡrævɪti	重力
+stems	stemz	茎
+obstacles	ˈɒbstəkl̩z	障碍，障碍物
+seminar	ˈsemɪnɑː	研讨会
+drought	ˈdraʊt	干旱
+erosion	ɪˈrəʊʒn̩	腐蚀
+digestion	dɪˈdʒestʃən	消化
+furniture	ˈfɜːnɪtʃə	家具
+retail	ˈriːteɪl	零售
+maturity	məˈtjʊərɪti	成熟
+postal	ˈpəʊstl̩	邮政的
+self-evaluation	<self-evaluation>	自我评估
+random	ˈrændəm	随机的
+cost-effective	<cost-effective>	性价比高的
+navigate	ˈnævɪɡeɪt	导航，辨识方向
+genetic	dʒɪˈnetɪk	基因的
+density	ˈdensɪti	密度
+triangle	ˈtraɪæŋɡl̩	三角
+cliffs	klɪfs	悬崖
+comprehension	ˌkɒmprɪˈhenʃn̩	理解
+irrigation	ˌɪrɪˈɡeɪʃn̩	灌溉
+contaminants	kənˈtæmɪnənts	污染物
+soldiers	ˈsəʊldʒəz	士兵
+concrete	ˈkɒŋkriːt	混凝土
+lifespan	ˈlaɪfspæn	寿命
+therapy	ˈθerəpi	疗法理疗
+temperature	ˈtemprətʃə	温度
+fluids	ˈfluːɪdz	液体
+kidney	ˈkɪdni	肾
+portable	ˈpɔːtəbl̩	便携的
+excitement	ɪkˈsaɪtmənt	激动
+mammal	ˈmæml̩	哺乳动物
+breathe	briːð	呼吸
+pollutants	pəˈluːtənts	污染物
+guidelines	ˈɡaɪdlaɪnz	方针政策
+mapping	ˈmæpɪŋ	映射，制图
+calculator	ˈkælkjʊleɪtə	计算器
+perfumes	pəˈfjuːmz	香水
+exploration	ˌekspləˈreɪʃn̩	探索
+toothache	ˈtuːθeɪk	牙痛
+pirates	ˈpaɪrəts	海盗
+powder	ˈpaʊdə	粉
+cosmetics	kɒzˈmetɪks	化妆品
+carpets	ˈkɑːpɪts	地毯
+tunnel	ˈtʌnl̩	隧道
+packaging	ˈpækɪdʒɪŋ	打包
+worms	wɜːmz	虫子
+odor	ˈəʊdə	气味
+butterflies	ˈbʌtəflaɪz	蝴蝶
+bacteria	bækˈtɪəriə	细菌
+protein	ˈprəʊtiːn	蛋白质
+migration	maɪˈɡreɪʃn̩	迁徙
+morality	məˈrælɪti	道德
+situational	ˌsɪtʃuːˈeɪʃənəl	环境造成的
+amber	ˈæmbə	唬珀
+tolerance	ˈtɒlərəns	容忍
+contribution	ˌkɒntrɪˈbjuːʃn̩	贡献
+humidity	hjuːˈmɪdɪti	潮湿度
+tuna	ˈtjuːnə	金枪鱼
+gill	ɡɪl	鲤
+cables	ˈkeɪbl̩z	电缆
+oyster	ˈɔɪstə	牡蛎
+guessing	ˈɡesɪŋ	推测
+relaxation	ˌriːlækˈseɪʃn̩	放松
+literacy	ˈlɪtərəsi	读写能力
+predators	ˈpredətəz	捕食者
+molt	məʊlt	脱毛
+diversity	daɪˈvɜːsɪti	多样性
+cement	sɪˈment	水泥
+peers	pɪəz	同龄人
+rational	ˈræʃn̩əl	理性的
+willing	ˈwɪlɪŋ	意愿的
+instinct	ˌɪnˈstɪŋkt	天性，本能
+reward	rɪˈwɔːd	报酬
+boiler	ˈbɔɪlə	水壶
+drawback	ˈdrɔːbæk	缺点
+obligation	ˌɒblɪˈɡeɪʃn̩	义务
+responsibility	rɪˌspɒnsəˈbɪlɪti	责任
+rags	ræɡz	破布
+rainbow	ˈreɪnbəʊ	彩虹
+desert	ˈdezət	沙漠
+lizard	ˈlɪzəd	蜥蜴
+institution	ˌɪnstɪˈtjuːʃn̩	机构
+shrimps	ʃrɪmps	虾
+ultraviolet	ˌʌltrəˈvaɪələt	紫外线
+bubble	ˈbʌbl̩	气泡
+passion	ˈpæʃn̩	激情
+responsible	rɪˈspɒnsəbl̩	负责的
+landmarks	ˈlændmɑːks	路标
+robots	ˈrəʊbɒts	机器人
+psychology	saɪˈkɒlədʒi	心理学
+varied	ˈveərɪd	变化的，多种多样的
+planet	ˈplænɪt	星球
+ethnics	ˈeθnɪks	人种学，少数民族
+nomad	ˈnəʊmæd	游牧民族
+camel	ˈkæməl	骆驼
+slaves	sleɪvz	奴隶
+lighting	ˈlaɪtɪŋ	灯光
+fossil	ˈfɒsl̩	化石
+repellent	rɪˈpelənt	驱虫剂
+odd	ɒd	古怪的
+factual	ˈfæktʃʊəl	事实的
+purple	ˈpɜːpl̩	紫色
+consolidation	kənˌsɒlɪˈdeɪʃn̩	巩固
+conscious	ˈkɒnʃəs	有意识的
+auditory	ˈɔːdɪtəri	听觉的
+symptom	ˈsɪmptəm	症状
+medication	ˌmedɪˈkeɪʃn̩	药物，药品，药物治疗
+intimate	ˈɪntɪmeɪt	亲密的
+teaspoon	ˈtiːspuːn	茶匙
+beetroot	ˈbiːtruːt	甜菜根
+retrieval	rɪˈtriːvəl	检索
+prompt	prɒmpt	促使，激励；迅速的，敏捷的
+impairment	ɪmˈpeəmənt	损害
+autism	ˈɔːtˌɪzəm	自闭症
+autistic	ɔːˈtɪstɪk	患自闭症的
+textile	ˈtekstaɪl	纺织品，纺织
+long-lasting	<long-lasting>	持久的
+poisonous	ˈpɔɪzənəs	有毒的
+medal	ˈmedl̩	奖章
+additive	ˈædətɪv	添加剂
+ingredient	ɪnˈɡriːdɪənt	成分
+consumer	kənˈsjuːmə	消费者
+cultivation	ˌkʌltɪˈveɪʃn̩	栽培
+consumption	kənˈsʌmpʃn̩	消费
+accept	əkˈsept	接受
+purpose	ˈpɜːpəs	目的
+rivals	ˈraɪvəlz	竞争对手
+complex	ˈkɒmpleks	复杂的
+timber	ˈtɪmbə	木材
+sustainable	səˈsteɪnəbl̩	可持续发展的
+microscope	ˈmaɪkrəskəʊp	显微镜
+flavour	ˈfleɪvə	味道
+drugs	ˈdrʌɡz	药物
+whistle	ˈwɪsl̩	吹口哨；口哨
+instinctive	ɪnˈstɪŋktɪv	本能的
+preserved	prɪˈzɜːvd	保存的
+poet	ˈpəʊɪt	诗人
+antibiotic	ˌæntibaɪˈɒtɪk	抗生素
+moisture	ˈmɔɪstʃə	水分，潮湿
+restrained	rɪˈstreɪnd	克制的
+documentation	ˌdɒkjʊmenˈteɪʃn̩	文档
+tutorials	tjuːˈtɔːrɪəlz	教程
+journalism	ˈdʒɜːnəlɪzəm	新闻
+depth	depθ	深度
+remember	rɪˈmembə	记得
+navigational	ˌnævɪˈɡeɪʃn̩	航行的
+evolution	ˌiːvəˈluːʃn̩	进化
+commerce	ˈkɒmɜːs	商业
+standard	ˈstændəd	标准（的）
+Greek	ˈɡriːk	希腊人
+dominant	ˈdɒmɪnənt	占主导地位的
+mixture	ˈmɪkstʃə	混合物
+hospitality	ˌhɒspɪˈtælɪti	好客
+symbols	ˈsɪmbl̩z	符号
+critics	ˈkrɪtɪks	评论家
+protected	prəˈtektɪd	受保护的
+stimulate	ˈstɪmjʊleɪt	剌激
+description	dɪˈskrɪpʃn̩	描述
+lonely	ˈləʊnli	孤独的
+industrial	ɪnˈdʌstrɪəl	工业的
+trumpet	ˈtrʌmpɪt	小号
+receiver	rɪˈsiːvə	接收机
+magnet	ˈmæɡnɪt	磁铁
+pottery	ˈpɒtəri	陶器
+lions	ˈlaɪənz	狮子
+emperor	ˈempərə	皇帝
+feathers	ˈfeðəz	羽毛
+wealth	welθ	财富
+taxes	ˈtæksɪz	税
+saliva	səˈlaɪvə	唾液，口水
+cleanliness	ˈklenlɪnəs	清洁度
+excavation	ˌekskəˈveɪʃn̩	挖掘
+pumice	ˈpʌmɪs	浮石
+luxurious	lʌɡˈʒʊərɪəs	豪华的
+physician	fɪˈzɪʃn̩	医师
+unsanitary	ʌnˈsænətri	不卫生的
+outbreaks	ˈaʊtbreɪks	爆发
+craft	krɑːft	工艺
+associations	əˌsəʊʃiˈeɪʃn̩z	协会
+commercial	kəˈmɜːʃl̩	商业的
+chemist	ˈkemɪst	化学家
+acid	ˈæsɪd	酸
+shelter	ˈʃeltə	避难所
+nectar	ˈnektə	花蜜
+disinfectant	ˌdɪsɪnˈfektənt	消毒剂
+ecologist	iːˈkɒlədʒɪst	生态学家
+composition	ˌkɒmpəˈzɪʃn̩	组成
+tropical	ˈtrɒpɪkl̩	热带的
+dense	dens	浓的，茂密的
+session	ˈseʃn̩	会议
+quantity	ˈkwɒntɪti	数量
+indication	ˌɪndɪˈkeɪʃn̩	指示
+watermills	ˈwɔːtəmɪlz	水车
+windmills	ˈwɪndmɪlz	风车
+lace	leɪs	花边
+ribbons	ˈrɪbənz	色带，缎带
+enormous	ɪˈnɔːməs	巨大的，极大的
+carts	kɑːts	购物车
+numerous	ˈnjuːmərəs	众多的
+canals	kəˈnælz	运河
+knowledgeable	ˈnɒlɪdʒəbl̩	知识渊博的
+retailing	ˈriːteɪlɪŋ	零售业
+entrepreneurs	ˌɒntrəprəˈnɜːz	企业家
+explosion	ɪkˈspləʊʒn̩	爆炸
+necessities	nɪˈsesɪtɪz	必需品
+unimaginable	ˌʌnɪˈmædʒɪnəbl̩	难以想象的
+arid	ˈærɪd	干旱
+charcoal	ˈtʃɑːkəʊl	木炭
+dependable	dɪˈpendəbl̩	可靠的
+livestock	ˈlaɪvstɒk	家畜
+notable	ˈnəʊtəbl̩	值得注意的
+cereals	ˈsɪərɪəlz	谷物
+additional	əˈdɪʃn̩əl	额外的
+initiative	ɪˈnɪʃətɪv	主动权；主动的
+original	əˈrɪdʒn̩əl	起初的，原创的
+colony	ˈkɒləni	群落，殖民地
+phase	feɪz	（电的）相，阶段
+companionship	kəmˈpænɪənʃɪp	情谊，友谊
+spray	spreɪ	喷剂
+stability	stəˈbɪlɪti	稳定
+calculation	ˌkælkjʊˈleɪʃn̩	计算
+eclipse	ɪˈklɪps	日食，月食
+rumor	ˈruːmə	谣言
+frustration	frʌˈstreɪʃn̩	挫折
+claw	klɔː	爪子
+cushion	ˈkʊʃn̩	靠垫
+damp	dæmp	潮湿阴暗的
+mobility	məʊˈbɪlɪti	活动性
+durable	ˈdjʊərəbl̩	持久的，耐用的
+mechanism	ˈmekənɪzəm	机械装置，机制
+pharmacy	ˈfɑːməsi	药房
+inscription	ɪnˈskrɪpʃn̩	刻字，铭文
+apron	ˈeɪprən	围裙
+automotive	ˌɔːtəʊˈməʊtɪv	汽车的
+courtyard	ˈkɔːtjɑːd	庭院
+introductory	ˌɪntrəˈdʌktəri	介绍的
+rationale	ˌræʃəˈnɑːl	基本原理，根本原因
+evaluative	ɪˈvæljʊətɪv	评价的，估值的
+hawk	hɔːk	鹰
+virtuous	ˈvɜːtʃʊəs	道德高尚的
+relevance	ˈreləvəns	相关性
+album	ˈælbəm	相册
+fragile	ˈfrædʒaɪl	脆弱的，易碎的
+catering	ˈkeɪtərɪŋ	餐饮
+dissatisfaction	ˌdɪsˌsætɪsˈfækʃn̩	不满意
+controversial	ˌkɒntrəˈvɜːʃl̩	有争议的
+faulty	ˈfɔːlti	错误的
+ethical	ˈeθɪkl̩	伦理的，道德的
+correlation	ˌkɒrəˈleɪʃn̩	联系，相关
+accessible	əkˈsesəbl̩	可接近的
+sandal	ˈsændl̩	凉鞋
+horticulture	ˈhɔːtɪkʌltʃə	园艺学，园艺
+artificial	ˌɑːtɪˈfɪʃl̩	人工的
+sweetener	ˈswiːtnə	甜味剂
+obesity	əʊˈbiːsɪti	肥胖
+knitting	ˈnɪtɪŋ	编织
+maintenance	ˈmeɪntənəns	维持，维修
+pedestrian	pɪˈdestrɪən	行人
+pavilion	pəˈvɪlɪən	亭子
+affordable	əˈfɔːdəbl̩	支付得起的
+skeleton	ˈskelɪtn̩	骨架
+animation	ˌænɪˈmeɪʃn̩	动画，动画片
+apprenticeship	əˈprentɪʃɪp	学徒期
+machinery	məˈʃiːnəri	机器，机械
+refurbishment	ˌriːˈfɜːbɪʃmənt	翻新，整修
+texture	ˈtekstʃə	质地，质感
+kingfisher	ˈkɪŋfɪʃə	翠鸟
+scary	ˈskeəri	吓人的
+meditation	ˌmedɪˈteɪʃn̩	冥想
+jealousy	ˈdʒeləsi	妒忌
+initiation	ɪˌnɪʃɪˈeɪʃn̩	入门，初学
+ardent	ˈɑːdnt	热烈的，激情的
+capitalism	ˈkæpɪtəlɪzəm	资本主义
+inspiration	ˌɪnspəˈreɪʃn̩	灵感
+profound	prəˈfaʊnd	强烈的，极度的，深刻的
+depression	dɪˈpreʃn̩	忧郁，沮丧
+resilience	rɪˈzɪlɪəns	弹性，复原能力
+attic	ˈætɪk	阁楼
+cardboard	ˈkɑːdbɔːd	纸板
+nucleus	ˈnjuːkliəs	核
+cuisine	kwɪˈziːn	饮食
+coincidence	kəʊˈɪnsɪdəns	巧合
+methodology	ˌmeθəˈdɒlədʒi	方法论
+adolescent	ˌædəˈlesnt	青少年（的）
+barrier	ˈbæriə	障碍
+intense	ɪnˈtens	强烈的
+collaboration	kəˌlæbəˈreɪʃn̩	合作
+maternity	məˈtɜːnɪti	母亲身份
+tractor	ˈtræktə	拖拉机
+packet	ˈpækɪt	包装
+modification	ˌmɒdɪfɪˈkeɪʃn̩	修改
+garment	ˈɡɑːmənt	服装
+hardship	ˈhɑːdʃɪp	艰难
+linen	ˈlɪnɪn	亚麻，床单
+hemp	hemp	麻类植物
+dominance	ˈdɒmɪnəns	主导，占优势
+herb	hɜːb	草药
+patio	ˈpætɪəʊ	院子，天井，平台
+agenda	əˈdʒendə	议事日程
+railing	ˈreɪlɪŋ	栏杆
+emission	ɪˈmɪʃn̩	排放，散发
+extinction	ɪkˈstɪŋkʃn̩	灭绝
+spice	spaɪs	香料
+voyage	ˈvɔɪɪdʒ	航海，航行
+beach	biːtʃ	沙滩
+identify	aɪˈdentɪfaɪ	辨认，认同
+forthcoming	ˌfɔːθˈkʌmɪŋ	即将到来的
+woodwork	ˈwʊdwɜːk	木工活
+lunchbox	<lunchbox>	午餐盒
+litter	ˈlɪtə	垃圾
+staff	stɑːf	员工
+bins	bɪnz	垃圾箱，垃圾桶
+lighthouse	ˈlaɪthaʊs	灯塔
+cave	keɪv	洞穴
+entrance	ɪnˈtrɑːns	入口
+individuals	ˌɪndɪˈvɪdʒʊəlz	个人
+veterinary	ˈvetrɪnri	兽医
+initial	ɪˈnɪʃl̩	最初的
+placement	ˈpleɪsmənt	安置地，住所
+lamb	læm	恙羊
+rear	rɪə	饲养，培养
+wool	wʊl	羊毛
+labyrinths	ˈlæbərɪnθs	迷宫
+prayer	preə	祷告
+carvings	ˈkɑːvɪŋz	雕刻品
+tribe	traɪb	部落
+turf	tɜːf	草皮，草地
+mental	ˈmentl̩	心智的，心理的
+setting	ˈsetɪŋ	环境，背景
+prison	ˈprɪzn̩	监狱
+patients	ˈpeɪʃnts	病人，患者
+sufferers	ˈsʌfərəz	患者，受难者
+arrange	əˈreɪndʒ	安排
+hobbies	ˈhɒbɪz	爱好
+refreshments	rɪˈfreʃmənts	茶点
+design	dɪˈzaɪn	设计
+owners	ˈəʊnəz	业主，拥有者
+politics	ˈpɒlɪtɪks	政治
+servants	ˈsɜːvənts	仆人
+milk	mɪlk	挤奶
+dairy	ˈdeəri	乳制品
+barn	bɑːn	谷仓
+shed	ʃed	棚屋
+parkland	ˈpɑːklænd	园地
+reviews	rɪˈvjuːz	书评，剧评
+analysis	əˈnæləsɪs	分析
+plot	plɒt	情节
+set	set	布景
+costume	ˈkɒstjuːm	戏服，演出服装
+illustrate	ˈɪləstreɪt	解释，阐明
+conflict	kənˈflɪkt	冲突，争端
+plays	ˈpleɪz	戏剧，剧作
+appeal	əˈpiːl	吸引力；吸引人的
+interpret	ɪnˈtɜːprɪt	理解
+approximately	əˈprɒksɪmətli	大约
+content	kənˈtent	内容，主题
+fund	fʌnd	基金
+secure	sɪˈkjʊə	牢固的，稳固的
+consequences	ˈkɒnsɪkwənsɪz	结果
+expert	ˈekspɜːt	专家
+kayak	ˈkaɪæk	单人独木舟（有顶棚的），皮划艇
+wetsuit	ˈwetsuːt	橡胶潜水服
+invaluable	ɪnˈvæljʊəbl̩	宝贵的
+substantial	səbˈstænʃl̩	丰盛的，可观的
+pasta	ˈpæstə	意大利面食
+casserole	ˈkæsərəʊl	砂锅
+percussion	pəˈkʌʃn̩	打击乐器
+parental	pəˈrentl̩	父母的
+mess	mes	杂乱
+spectator	spekˈteɪtə	观众
+sponsor	ˈspɒnsə	资助（者），赞助（者）
+panic	ˈpænɪk	恐慌
+gap	ɡæp	缝隙，沟
+ultimate	ˈʌltɪmət	最终的，极端的
+democratic	ˌdeməˈkrætɪk	民主的
+naturalist	ˈnætʃrəlɪst	博物学家
+philosopher	fɪˈlɒsəfə	哲学家
+bizarre	bɪˈzɑː	罕见的，异乎寻常的
+stork	stɔːk	鹤（一种鸟）
+zoological	ˌzuːəˈlɒdʒɪkl̩	动物学的
+gram	ɡræm	（质量单位）克
+possibility	ˌpɒsəˈbɪlɪti	可能性
+plumber	ˈplʌmə	管道工，水暖工
+electrician	ɪˌlekˈtrɪʃn̩	电工，电器技师
+vacuum	ˈvækjʊəm	真空
+dust	dʌst	灰尘
+turnover	ˈtɜːnəʊvə	人员流动率
+preferential	ˌprefəˈrenʃl̩	优待的，优惠的
+tangible	ˈtændʒəbl̩	可触摸的，可感知的
+retention	rɪˈtenʃn̩	保留，维持
+brewery	ˈbrʊəri	啤酒厂，啤酒公司
+worthwhile	ˈwɜːθwaɪl	值得的
+rewarding	rɪˈwɔːdɪŋ	有回报的
+prospect	prəˈspekt	前景
+innovative	ˈɪnəveɪtɪv	创新的，革新的
+cricket	ˈkrɪkɪt	蟋蟀，板球
+vent	vent	通风口
+hockey	ˈhɒki	曲棍球
+leather	ˈleðə	皮革
+maple	ˈmeɪpl̩	枫树
+syrup	ˈsɪrəp	糖浆
+jar	dʒɑː	坛子，罐
+waffle	ˈwɒfl̩	威化饼
+pastry	ˈpeɪstri	糕点，茶点
+preservative	prɪˈzɜːvətɪv	防腐剂
+criterion	kraɪˈtɪərɪən	标准，准则
+partial	ˈpɑːʃl̩	不完全的，部分的
+exposure	ɪkˈspəʊʒə	曝光
+indigenous	ɪnˈdɪdʒɪnəs	本土的，土生土长的
+diameter	daɪˈæmɪtə	直径
+formation	fɔːˈmeɪʃn̩	形成
+trunk	trʌŋk	树干
+tube	tjuːb	管道
+bucket	ˈbʌkɪt	水桶
+nutrient	ˈnjuːtrɪənt	营养物质
+pan	pæn	平底锅，烤盘
+steam	stiːm	蒸汽
+complaint	kəmˈpleɪnt	n抱怨
+comment	ˈkɒment	n评论，意见：注释
+consideration	kənˌsɪdəˈreɪʃn̩	n.考虑
+reliability	rɪˌlaɪəˈbɪlɪti	n.可靠性
+crucial	ˈkruːʃl̩	adj. 至关重要的，关键的
+dedication	ˌdedɪˈkeɪʃn̩	n奉献
+creativity	ˌkriːeɪˈtɪvəti	n创造力
+imaginative	ɪˈmædʒɪnətɪv	adj.有想象力的
+fundraising	ˈfənˌdresɪŋ	n 筹集资金
+theatrical	θɪˈætrɪkl̩	adj.戏剧的
+vulnerable	ˈvʌlnərəbl̩	ad.脆弱的
+competitive	kəmˈpetətɪv	ad.竞争的
+inspiring	ɪnˈspaɪərɪŋ	adj.鼓舞人心的
+poacher	ˈpəʊtʃə	n偷猎者
+Ivory	ˈaɪvəri	n.象牙
+enforcement	ɪnˈfɔːsmənt	n实行，强加
+vet	vet	n兽医
+manoeuvre	məˈnuːvə	n.策略，聪明之举
+tranquiliser	<tranquiliser>	n镇静剂
+suffocation	ˌsʌfəˈkeɪʃn̩	n. 窒息而死，闷死
+matriarch	ˈmeɪtrɪɑːk	n.女族长，女家长
+tusk	tʌsk	n.象牙
+recovery	rɪˈkʌvəri	n恢复
+chef	ʃef	厨师，主厨
+steep	stiːp	陡峭的
+slope	sləʊp	斜坡
+provision	prəˈvɪʒn̩	供给，补给
+resident	ˈrezɪdənt	居民
+clinic	ˈklɪnɪk	诊所
+curve	kɜːv	（使)弯曲
+eruption	ɪˈrʌpʃn̩	迸发，喷发
+catastrophic	ˌkætəˈstrɒfɪk	灾难的
+consistent	kənˈsɪstənt	一致的，符合的
+terminology	ˌtɜːmɪˈnɒlədʒi	术语
+haze	heɪz	雾霾
+fog	fɒɡ	雾
+respiratory	rɪˈspɪrətr̩i	呼吸的
+weird	wɪəd	奇怪的
+ambassador	æmˈbæsədə	大使
+impact	ɪmˈpækt	影响
+dramatic	drəˈmætɪk	戏剧的
+fallout	ˈfɔːlaʊt	沉降物，恶果，不良影响
+famine	ˈfæmɪn	饥荒
+mortality	mɔːˈtælɪti	死亡人数，死亡率
+diary	ˈdaɪəri	日记
+briefcase	ˈbriːfkeɪs	公文包
+item	ˈaɪtəm	物品，东西
+waistcoat	ˈweɪskəʊt	马甲
+decorative	ˈdekərətɪv	装饰的
+stylish	ˈstaɪlɪʃ	优雅的，有格调的
+profession	prəˈfeʃn̩	工作，职业
+possession	pəˈzeʃn̩	所有物，财产
+pickpocket	ˈpɪkpɒkɪt	扒手
+string	strɪŋ	绳子
+embroidery	ɪmˈbroɪdəri	刺绣
+photographer	fəˈtɒɡrəfə	摄影师
+associate	əˈsəʊsiət	准会员：朋友，伙伴
+pale	peɪl	浅色的：苍白的
+signal	ˈsɪɡnəl	信号，显示
+reservoir	ˈrezəvwɑː	水库
+adventurous	ədˈventʃərəs	冒险的
+automation	ˌɔːtəˈmeɪʃn̩	自动化
+optimistic	ˌɒptɪˈmɪstɪk	乐观的
+repetitive	rɪˈpetətɪv	重复的
+incredible	ɪnˈkredəbl̩	难以置信的
+innovation	ˌɪnəˈveɪʃn̩	革新，创新
+efficient	ɪˈfɪʃnt	好用的：效率高的
+foreseeable	fɔːˈsiːəbl̩	可预见的，可预料的
+hairdressing	ˈheədresɪŋ	理发
+hairdryer	<hairdryer>	吹风机
+dictation	dɪkˈteɪʃn̩	口述，听写
+census	ˈsensəs	人口普查，调查
+redundant	rɪˈdʌndənt	多余的，累赘的
+collision	kəˈlɪʒn̩	碰撞
+orbit	ˈɔːbɪt	轨道
+constellation	ˌkɒnstəˈleɪʃn̩	星座
+debris	ˈdeɪbriː	碎片，残片
+operator	ˈɒpəreɪtə	操作员；运营商；专业公司
+prediction	prɪˈdɪkʃn̩	预测
+receptionist	rɪˈsepʃənɪst	前台，接待员
+CV	wʌn ˈhʌndrəd faɪv	个人简历
+entry	ˈentri	进入：参赛
+gallery	ˈɡæləri	画廊
+interior	ɪnˈtɪərɪə	内部的 内部
+cloakroom	ˈkləʊkruːm	衣帽间，衣帽奇存处
+rucksack	ˈrʌksæk	背包
+shepherd	ˈʃepəd	牧羊人
+staircase	ˈsteəkeɪs	楼梯，台阶
+variation	ˌveərɪˈeɪʃn̩	变化，变体
+origami	ˌɒrɪˈɡɑːmi	折纸艺术
+verbal	ˈvɜːbl̩	言语的
+clumsy	ˈklʌmzi	笨拙的
+fraction	ˈfrækʃn̩	分数，小部分
+symmetry	ˈsɪmətri	对称
+literary	ˈlɪtərəri	文学的，与文学相关的
+genius	ˈdʒiːnɪəs	天才：天赋
+criticism	ˈkrɪtɪsɪzəm	批评
+portrait	ˈpɔːtrɪt	画像，肖像
+intricate	ˈɪntrɪkət	错综的，复杂的
+shadowy	ˈʃædəʊɪ	阴暗的，不为人知的
+solemn	ˈsɒləm	庄严的
+lounge	laʊndʒ	大厅
+acre	ˈeɪkə	英亩
+hectare	ˈhekteə	公顷
+oak	əʊk	橡树
+plantation	plænˈteɪʃn̩	种植园
+gravel	ˈɡrævl̩	沙砾
+rhythm	ˈrɪðəm	节奏
+tempo	ˈtempəʊ	速度，节奏
+self-confidence	self ˈkɒnfɪdəns	自信
+practical	ˈpræktɪkl̩	实际的
+sickness	ˈsɪknəs	生病
+coordinator	kəʊˈɔːdɪneɪtə	协调者
+chord	kɔːd	和弦
+hopeless	ˈhəʊplɪs	无助的
+reassuring	ˌriːəˈʃʊərɪŋ	使人安心的
+thumb	ˈθʌm	大拇指
+clap	klæp	鼓掌
+impressive	ɪmˈpresɪv	有感染力的
+stuff	stʌf	东西，物品
+salmon	ˈsæmən	三文鱼
+shellfish	ˈʃelfɪʃ	贝类
+curry	ˈkʌri	咖喱
+prawn	prɔːn	对虾
+seaweed	ˈsiːwiːd	海草
+mango	ˈmæŋɡəʊ	芒果
+melon	ˈmelən	瓜
+tart	tɑːt	果馅饼
+strawberry	ˈstrɔːbri	草莓
+sushi	ˈsuːʃi	寿司
+cold-room	<cold-room>	冷库
+frostbite	ˈfrɒstbaɪt	冻伤，冻疮
+footbridge	ˈfʊtbrɪdʒ	小桥
+municipal	mjuːˈnɪsɪpl̩	城市的
+poplar	ˈpɒplə	杨树，白杨
+pancake	ˈpænkeɪk	薄煎饼
+barbecue	ˈbɑːbɪkjuː	烧烤
+northern	ˈnɔːðən	北方的
+rectangular	rekˈtæŋɡjʊlə	长方形的
+generous	ˈdʒenərəs	慷慨的
+vision	ˈvɪʒn̩	视野
+short-sighted	ʃɔːt ˈsaɪtɪd	近视的
+surgery	ˈsɜːdʒəri	外科手术
+coastguard	ˈkəʊstɡɑːd	海上警卫队
+sailor	ˈseɪlə	水手
+swimmer	ˈswɪmə	游泳者
+technique	tekˈniːk	技巧
+knot	nɒt	绳结
+expertise	ˌekspɜːˈtiːz	专长
+incident	ˈɪnsɪdənt	事件
+illustrator	ˈɪləstreɪtə	插画家
+magical	ˈmædʒɪkl̩	魔法的
+medal	ˈmedl̩	奖章
+poem	ˈpəʊɪm	诗歌
+hilarious	hɪˈleərɪəs	可笑的
+distraction	dɪˈstrækʃn̩	使人分心的事物
+genre	ˈʒɑːnrə	体裁，类型
+podcast	<podcast>	播客
+asthma	ˈæsmə	哮喘
+chickpea	ˈtʃɪkpiː	鹰嘴豆
+stale	steɪl	不新鲜的
+appetising	ˈæpɪtaɪzɪŋ	开胃的
+sensitive	ˈsensətɪv	敏感的
+sensor	ˈsensə	传感器
+bump	bʌmp	隆起
+solid	ˈsɒlɪd	坚硬的，实心的
+proactive	ˌprəʊˈæktɪv	主动的，积极的
+gluten	ˈɡluːtən	麸质
+lactose-free	<lactose-free>	不含乳糖的
+intolerance	ɪnˈtɒlərəns	难以忍受
+celebrity	sɪˈlebrɪti	名人
+takeaway	ˈteɪkəˌweɪ	外卖
+footwear	ˈfʊtweə	鞋
+trainers	ˈtreɪnəz	运动鞋，训练鞋
+hard-wearing	<hard-wearing>	运动鞋，训练鞋
+scruffy	ˈskrʌfi	邋遢的，不整洁的
+suede	sweɪd	绒面革，仿麂皮
+beige	beɪʒ	米色 ,米色的
+marathon	ˈmærəθən	马拉松
+identical	aɪˈdentɪkl̩	相似的，相同的
+perspective	pəˈspektɪv	角度，问题，观点
+depressing	dɪˈpresɪŋ	令人沮丧的
+permission	pəˈmɪʃn̩	许可
+tag	tæɡ	标签
+pellet	ˈpelɪt	团粒，小硬球，丸
+paperback	ˈpeɪpəbæk	平装书,平装的
+hardback	ˈhɑːdbæk	精装书,精装的
+eye-catching	ˈaɪ kætʃɪŋ	吸引眼球的
+attic	ˈætɪk	阁楼
+toddler	ˈtɒdlə	刚学走路的小孩
+pushchair	ˈpʊʃtʃeə	折叠式幼儿小推车
+archaeologist=archeologist	<archaeologist=archeologist>	考古学家
+row	raʊ	排
+probe	prəʊb	探针;探测器
+bog	bɒɡ	沼泽地，泥塘
+acidity	əˈsɪdəti	酸度，酸的含量
+peat	piːt	泥炭，泥煤
+deficiency	dɪˈfɪʃnsi	缺乏
+predecessor	ˈpriːdɪsesə	前辈，前任，先驱
+fragment	fræɡˈment	碎片，小片
+paddock	ˈpædək	农田，农场地
+circumstance	ˈsɜːkəmstəns	情况
+abandonment	əˈbændənmənt	放弃，抛弃
+rotation	rəʊˈteɪʃn̩	旋转，转动;轮作，轮耕
+intensive	ɪnˈtensɪv	强化的;精耕细作的，集约的
+microscopic	ˌmaɪkrəˈskɒpɪk	微小的，极小的
+precise	prɪˈsaɪs	精确的
+suction	ˈsʌkʃn̩	吸，抽吸
+organ	ˈɔːɡən	器官
+cavity	ˈkævɪti	洞，腔
+radiation	ˌreɪdɪˈeɪʃn̩	辐射
+metabolism	məˈtæbəˌlɪzəm	新陈代谢
+gel	dʒel	啫喱
+thread	θred	线
+synthetic	sɪnˈθetɪk	合成的，人造的
+lorry	ˈlɒri	卡车
+conclusive	kənˈkluːsɪv	结论性的，确凿的
+legislation	ˌledʒɪsˈleɪʃn̩	法规，法律;立法
+toothpaste	ˈtuːθpeɪst	牙膏
+fertiliser=fertilizer	<fertiliser=fertilizer>	肥料，化肥
+earthworm	ˈɜːθwɜːm	蚯蚓
+subsequent	ˈsʌbsɪkwənt	随后的
+ingestion	ɪnˈdʒest	摄取
+conventional	kənˈvenʃn̩əl	会议的;传统的
+rye	raɪ	黑麦
+particle	ˈpɑːtɪkl̩	粒子，微粒
+reforestation	ri:ˌfɒrɪˈsteɪʃn̩	再造林
+invasive	ɪnˈveɪsɪv	侵略的
+capture	ˈkæptʃə	捕捉
+intervention	ˌɪntəˈvenʃn̩	干预，干涉
+disperser	<disperser>	分发装置，分配器
+low impact	ləʊ ɪmˈpækt	小冲击
+alternative energy	ɔːlˈtɜːnətɪv ˈenədʒi	新能源
+roads and bridges	rəʊdz ənd ˈbrɪdʒɪz	路和桥
+high absence rate	haɪ ˈæbsəns reɪt	高缺席率
+persuasive writing	pəˈsweɪsɪv ˈraɪtɪŋ	说服性文章
+academic essays	ˌækəˈdemɪk eˈseɪz	学术论文
+ocean conditions	ˈəʊʃn̩ kənˈdɪʃn̩z	海洋条件
+study ability	ˈstʌdi əˈbɪləti	学习能力
+simple memories	ˈsɪmpl̩ ˈmemərɪz	简单回忆
+information sector	ˌɪnfəˈmeɪʃn̩ ˈsektə	信息部门
+digital store	ˈdɪdʒɪtl̩ stɔː	数码商店
+volcanic dust	vɒlˈkænɪk dʌst	火山灰
+bar code	bɑː kəʊd	条形码
+climate change	ˈklaɪmət tʃeɪndʒ	气候变化
+learning difficulty	ˈlɜːnɪŋ ˈdɪfɪkəlti	学习障碍
+reading difficulty	ˈriːdɪŋ ˈdɪfɪkəlti	阅读障碍
+low nutrition	ləʊ njuːˈtrɪʃn̩	缺乏营养
+desert habitat	ˈdezət ˈhæbɪtæt	沙漠栖息地
+no change	nəʊ tʃeɪndʒ	无变化
+extra resources	ˈekstrə rɪˈzɔːsɪz	额外资源
+private property	ˈpraɪvɪt ˈprɒpəti	私人财产
+fruit growing	fruːt ˈɡrəʊɪŋ	果树栽培
+specialised software	<specialised> ˈsɒftweə	专业软件
+chewing gum	ˈtʃuːɪŋ ɡʌm	口香糖
+water pipes	ˈwɔːtə paɪps	水管
+big company	bɪɡ ˈkʌmpəni	大公司
+action plan	ˈækʃn̩ plæn	行动计划
+window glass	ˈwɪndəʊ ˈɡlɑːs	窗玻璃
+road building	rəʊd ˈbɪldɪŋ	道路建设
+knife handle	naɪf ˈhændl̩	刀柄
+olive oil	ˈɒlɪv ɔɪl	橄榄油
+goat skin	ɡəʊt skɪn	山羊皮
+high temperatures	haɪ ˈtemprətʃəz	高温度
+land bridge	lænd brɪdʒ	陆桥
+fresh meat	freʃ miːt	鲜肉
+food intake	fuːd ˈɪnteɪk	食物摄入
+eating pattern	ˈiːtɪŋ ˈpætn̩	吃饭习惯
+transport museum	trænsˈpɔːt mjuːˈzɪəm	交通博物馆
+water tanks	ˈwɔːtə tæŋks	水箱
+government election	ˈɡʌvənmənt ɪˈlekʃn̩	政府选举
+car tax	kɑː tæks	购车税
+food chain	fuːd tʃeɪn	食物链
+textile factory	ˈtekstaɪl ˈfæktəri	纺织厂
+tea tree oil	tiː triː ɔɪl	茶树油
+video cameras	ˈvɪdɪəʊ ˈkæmərəz	摄像机
+carbon dioxide	ˈkɑːbən daɪˈɒksaɪd	二氧化碳
+global warming	ˈɡləʊbl̩ ˈwɔːmɪŋ	全球变暖
+online service	ˈɒnˌlaɪn ˈsɜːvɪs	在线服务
+social activities	ˈsəʊʃl̩ ækˈtɪvətiz	社会活动
+further training	ˈfɜːðə ˈtreɪnɪŋ	进阶训练
+internal flight	ɪnˈtɜːnl̩ flaɪt	国内航线
+traffic flow	ˈtræfɪk fləʊ	车流量
+short stroke	ʃɔːt strəʊk	短笔画
+large-scale housing	ˈlɑːdʒ skeɪl ˈhaʊzɪŋ	大面积住房区域
+group meeting	ɡruːp ˈmiːtɪŋ	团队会议
+standard feedback	ˈstændəd ˈfiːdbæk	标准反馈
+mission statement	ˈmɪʃn̩ ˈsteɪtmənt	任务清单
+training session	ˈtreɪnɪŋ ˈseʃn̩	训练阶段
+soil damage	sɔɪl ˈdæmɪdʒ	土壤损害
+broken axe	ˈbrəʊkən æks	损坏的斧子
+fish bones	fɪʃ bəʊnz	鱼骨
+triangle-shaped	<triangle-shaped>	三角形的
+absence rate	ˈæbsəns reɪt	缺席率
+green tax	ˈɡriːn tæks	环保税
+transport service	trænsˈpɔːt ˈsɜːvɪs	运输服务
+sleeping disturbance	ˈsliːpɪŋ dɪˈstɜːbəns	睡眠障碍
+public square	ˈpʌblɪk skweə	广场
+feeding time	ˈfiːdɪŋ ˈtaɪm	喂食时间
+vertical cabin	ˈvɜːtɪkl̩ ˈkæbɪn	垂直座舱
+ask for apology	ɑːsk fər əˈpɒlədʒi	寻求道歉
+voices and faces	ˈvɔɪsɪz ənd ˈfeɪsɪz	声音和脸
+heart rate	hɑːt reɪt	心率
+red blood cell	red blʌd sel	红细胞
+Indian tribes	ˈɪndɪən traɪbz	印第安部落
+grain pattern	ɡreɪn ˈpætn̩	谷物图案
+prime motivation	praɪm ˌməʊtɪˈveɪʃn̩	主要动机
+streets and roads	striːts ənd rəʊdz	街道和公路
+forest planet	ˈfɒrɪst ˈplænɪt	森林星球
+extra resources	ˈekstrə rɪˈzɔːsɪz	额外资源
+ship building	ʃɪp ˈbɪldɪŋ	造船
+natural fiber	ˈnætʃrəl ˈfaɪbə	天然纤维
+melting pot	ˈmeltɪŋ ˈpɒt	熔炉
+carbon mining	ˈkɑːbən ˈmaɪnɪŋ	碳矿
+fishing lesson	ˈfɪʃɪŋ ˈlesn̩	钓鱼课程
+known world	nəʊn wɜːld	熟悉的世界
+silver coins	ˈsɪlvə kɔɪnz	银币
+Roman emperor	ˈrəʊmən ˈempərə	罗马皇帝
+social conformity	ˈsəʊʃl̩ kənˈfɔːmɪti	社会从众性
+law firm	lɔː fɜːm	律师事务所
+protective clothing	prəˈtektɪv ˈkləʊðɪŋ	防护衣物
+market share	ˈmɑːkɪt ʃeə	市场 占有率
+reflective practice	rɪˈflektɪv ˈpræktɪs	应激训练
+habitat loss	ˈhæbɪtæt lɒs	栖息地丧失
+rich experiences	rɪtʃ ɪkˈspɪərɪənsɪz	丰富经历
+zero noisy	ˈzɪərəʊ ˈnɔɪzi	无噪声的
+durable contracture	ˈdjʊərəbl̩ <contracture>	持久性痉挛
+land resources	lænd rɪˈzɔːsɪz	陆地资源
+fish farming	fɪʃ ˈfɑːmɪŋ	鱼类养殖
+hospitality industry	ˌhɒspɪˈtælɪti ˈɪndəstri	酒店管理
+time and sequence	ˈtaɪm ənd ˈsiːkwəns	时间和顺序
+language barrier	ˈlæŋɡwɪdʒ ˈbæriə	语言障碍
+wealthy people	ˈwelθi ˈpiːpl̩	富有的人
+food prices	fuːd ˈpraɪsɪz	食物价格
+presence rate	ˈprezns reɪt	出勤率
+direct route	dɪˈrekt ruːt	直达路线
+tracking devices	ˈtrækɪŋ dɪˈvaɪsɪz	跟踪设备
+operation manager	ˌɒpəˈreɪʃn̩ ˈmænɪdʒə	执行经理
+fish hooks	fɪʃ hʊks	鱼钩
+rare glass	reə ˈɡlɑːs	稀有玻璃
+cooperation process	kəʊˌɒpəˈreɪʃn̩ ˈprəʊses	合作过程
+social glue	ˈsəʊʃl̩ ɡluː	社会黏性
+carpet case	ˈkɑːpɪt keɪs	地毯箱
+transport system	ˈtrænspɔːt ˈsɪstəm	交通系统
+hand torch	hænd tɔːtʃ	手电筒
+boring content	ˈbɔːrɪŋ kənˈtent	乏味的内容
+traditional lecture	trəˈdɪʃn̩əl ˈlektʃə	传统课程
+regular basis	ˈreɡjʊlə ˈbeɪsɪs	常规基础
+extreme sports	ɪkˈstriːm spɔːts	极限运动
+lifestyle sports	ˈlaɪfstaɪl spɔːts	生活方式运动
+better equipment	ˈbetər ɪˈkwɪpmənt	更好的设备
+traditional sports	trəˈdɪʃn̩əl spɔːts	传统运动
+restricted regulations	rɪˈstrɪktɪd ˌreɡjʊˈleɪʃn̩z	限制规定
+regular training	ˈreɡjʊlə ˈtreɪnɪŋ	常规训练
+individual competition	ˌɪndɪˈvɪdʒʊəl ˌkɒmpəˈtɪʃn̩	个人竞争
+sense of community	sens əv kəˈmjuːnɪti	社区意识
+salt content	sɔːlt kənˈtent	盐分含量
+rice cultivation	raɪs ˌkʌltɪˈveɪʃn̩	稻株栽培
+skin of frog	skɪn əv frɒɡ	青蛙的皮肤
+glass bottle	ˈɡlɑːs ˈbɒtl̩	玻璃瓶
+open roof	ˈəʊpən ruːf	开放式房顶
+sand base	sænd beɪs	沙基
+high protein	haɪ ˈprəʊtiːn	高蛋白
+fiber diet	ˈfaɪbə ˈdaɪət	纤维食物
+constant temperature	ˈkɒnstənt ˈtemprətʃə	恒温
+average size	ˈævərɪdʒ saɪz	平均尺寸
+good eyesight	ɡʊd ˈaɪsaɪt	好视力
+major illness	ˈmeɪdʒər ˈɪlnəs	主要的疾病
+quality of life	ˈkwɒlɪti əv laɪf	生活质量
+physical changes	ˈfɪzɪkl̩ ˈtʃeɪndʒɪz	物理变化
+particular disease	pəˈtɪkjʊlə dɪˈziːz	特殊疾病
+dark blue veil	dɑːk bluː veɪl	深蓝色面纱
+scientific backup	ˌsaɪənˈtɪfɪk ˈbækʌp	科学支持
+migration patterns	maɪˈɡreɪʃn̩ ˈpætn̩z	迁徙类型
+preserved remains	prɪˈzɜːvd rɪˈmeɪnz	保留的遗迹
+mineral soil	ˈmɪnərəl sɔɪl	矿物质土壤
+tape measure	teɪp ˈmeʒə	卷尺
+soft sediment	sɒft ˈsedɪmənt	松软沉积物
+plant pot	plɑːnt ˈpɒt	植物盆栽
+estate agent	ɪˈsteɪt ˈeɪdʒənt	房产经纪人
+botanic garden	bəˈtænɪk ˈɡɑːdn̩	植物园
+emergency locator beacon	ɪˈmɜːdʒənsi ləʊˈkeɪtə ˈbiːkən	应急定位器信标
+digestive problem	dɪˈdʒestɪv ˈprɒbləm	消化问题
+red blood cells	red blʌd selz	红细胞
+weight loss	weɪt lɒs	减肥
+fishing net	ˈfɪʃɪŋ net	渔网
+pigeons and rats	ˈpɪdʒənz ənd ræts	鸽子和老鼠
+mineral soil	ˈmɪnərəl sɔɪl	矿物土壤
+still water	stɪl ˈwɔːtə	静止的水
+stored temperature	stɔːd ˈtemprətʃə	储存温度
+frozen food	ˈfrəʊzən fuːd	冷冻食品
+migration patterns	maɪˈɡreɪʃn̩ ˈpætn̩z	迁移模式
+particular disease	pəˈtɪkjʊlə dɪˈziːz	特殊疾病
+mission statement	ˈmɪʃn̩ ˈsteɪtmənt	使命宣言
+administration officer	ədˌmɪnɪˈstreɪʃn̩ ˈɒfɪsə	行政官员
+machines and robots	məˈʃiːnz ənd ˈrəʊbɒts	机器或机器人
+smooth ride	smuːð raɪd	平稳的骑
+rubber tyre	ˈrʌbə ˈtaɪə	橡胶轮胎
+desert locations	ˈdezət ləʊˈkeɪʃn̩z	沙漠地区
+southern Scotland	ˈsʌðən ˈskɒtlənd	南苏格兰
+head offices	hed ˈɒfɪsɪz	总部办公室
+global market	ˈɡləʊbl̩ ˈmɑːkɪt	全球市场
+safe environment	seɪf ɪnˈvaɪərənmənt	安全的环境
+feeding time	ˈfiːdɪŋ ˈtaɪm	喂食的时候
+hearing loss	ˈhɪərɪŋ lɒs	听力损失
+silver coins	ˈsɪlvə kɔɪnz	银币
+maintain the gene diversity	meɪnˈteɪn ðə dʒiːn daɪˈvɜːsɪti	保持基因多样性
+hinder domestic smells	ˈhɪndə dəˈmestɪk smelz	阻碍内部的气味
+transport costs	ˈtrænspɔːt kɒsts	运输成本
+ship building	ʃɪp ˈbɪldɪŋ	造船业
+cleansing properties	ˈklenzɪŋ ˈprɒpətɪz	清洁特性
+gum tree	ɡʌm triː	胶树
+gene diversity	dʒiːn daɪˈvɜːsɪti	基因多样性
+multiple tasks	ˈmʌltɪpl̩ tɑːsks	多种工作
+nature reserve	ˈneɪtʃə rɪˈzɜːv	自然保护区
+nesting boxes	ˈnestɪŋ ˈbɒksɪz	鸟巢箱
+car park	kɑː pɑːk	停车场
+participate in	pɑːˈtɪsɪpeɪt ɪn	参加
+jet black	ˈdʒet blæk	乌黑
+sea eagles	siː ˈiːɡl̩z	海雕
+fur seals	fɜː siːlz	海狗，海獭
+dairy cows	ˈdeəri kaʊz	奶牛
+fundamental change	ˌfʌndəˈmentl̩ tʃeɪndʒ	本质的改变
+medical terminology	ˈmedɪkl̩ ˌtɜːmɪˈnɒlədʒi	医学术语
+up to date	ʌp tə deɪt	最新的
+New Year's Eve party	njuː ˈjiəz iːv ˈpɑːti	跨年夜聚会 
+audio guides	ˈɔːdiəʊ ɡaɪdz	语音导览
+mini tractors	mini ˈtræktəz	迷你拖拉机 
+adventure playground	ədˈventʃə ˈpleɪɡraʊnd	冒险乐园
+rare breeds	reə briːdz	稀有物种
+particular scene	pəˈtɪkjʊlə siːn	演员表演
+actor's delivery	ˈæktərz dɪˈlɪvəri	演员表演
+recognisable characters	<recognisable> ˈkærəktəz	有辨识度的角色
+digital technology	ˈdɪdʒɪtl̩ tekˈnɒlədʒi	数码科技
+Icelandic language	aɪsˈləndɪk ˈlæŋɡwɪdʒ	冰岛语
+computer-based concepts	<computer-based> ˈkɒnsepts	基于计算机的概念
+web browser	web ˈbraʊzə	网页浏览器
+surfing holiday	ˈsɜːfɪŋ ˈhɒlədeɪ	冲浪假期
+specialist teacher	ˈspeʃəlɪst ˈtiːtʃə	专家老师
+southern pole	ˈsʌðən pəʊl	南极
+hibernation instinct	ˌhaɪbəˈneɪʃn̩ ˌɪnˈstɪŋkt	冬眠本能
+pressure washer	ˈpreʃə ˈwɒʃə	压力清洗装置
+security check	sɪˈkjʊərɪti tʃek	安全检查
+professional athlete	prəˈfeʃnəl ˈæθliːt	专业运动员
+table tennis bats	ˈteɪbl̩ ˈtenɪs bæts	乒乓球拍
+horse harnesses	hɔːs ˈhɑːnəsɪz	马具
+secondary school	ˈsekəndri skuːl	中学
+bread slicer	bred sˈlaɪsə	面包切片刀
+thermal gloves	ˈθɜːml̩ ɡlʌvz	隔热手套
+organic shop	ɔːˈɡænɪk ʃɒp	有机商店
+taster session	ˈteɪstə ˈseʃn̩	试听课
+sporty person	ˈspɔːti ˈpɜːsn̩	爱运动的人
+sense of achievement	sens əv əˈtʃiːvmənt	成就感
+life jacket	laɪf ˈdʒækɪt	救生衣
+sailing club	ˈseɪlɪŋ klʌb	航海俱乐部
+continuous process	kənˈtɪnjʊəs ˈprəʊses	持续的过程
+technical competence	ˈteknɪkl̩ ˈkɒmpɪtəns	技术能力
+emergency situations	ɪˈmɜːdʒənsi ˌsɪtʃʊˈeɪʃn̩z	紧急情况
+rewarding time	rɪˈwɔːdɪŋ ˈtaɪm	回报时间，收获时间
+vegan alternative	ˈviːɡən ɔːlˈtɜːnətɪv	素食替代品
+recycling bins	ˌriːˈsaɪkl̩ɪŋ bɪnz	回收箱
+charity shops	ˈtʃærɪti ʃɒps	慈善商店
+experimental mice	ɪkˌsperɪˈmentl̩ maɪs	实验小鼠
+physical traits	ˈfɪzɪkl̩ treɪts	身体特征，物理特征
+conservation status	ˌkɒnsəˈveɪʃn̩ ˈsteɪtəs	保护状态
+shower gel	ˈʃaʊə dʒel	沐浴露
+facial cleanser	ˈfeɪʃl̩ ˈklenzə	洗面奶
+business corporation	ˈbɪznəs ˌkɔːpəˈreɪʃn̩	商业公司
+
+# plus
+January	ˈdʒænjʊri
+February	ˈfebjʊəri
+March	mɑːtʃ
+April	ˈeɪprəl
+May	meɪ
+June	dʒuːn
+July	dʒuːˈlaɪ
+August	ˈɔːɡəst
+September	sepˈtembə
+October	ɒkˈtəʊbə
+November	nəʊˈvembə
+December	dɪˈsembə
+Monday	ˈmʌndeɪ
+Tuesday	ˈtjuːzdi
+Wednesday	ˈwenzdeɪ
+Thursday	ˈθɜːzdeɪ
+Friday	ˈfraɪdeɪ
+Saturday	ˈsætədeɪ
+Sunday	ˈsʌndeɪ
+anthropology	ˌænθrəˈpɒlədʒi	人类学
+archaeology	ˌɑːkiˈɒlədʒi	考古学
+astrology	əˈstrɒlədʒi	占星术
+astronomy	əˈstrɒnəmi	天文学
+applied science	əˈplaɪd ˈsaɪəns	应用科学
+general science	ˈdʒenr̩əl ˈsaɪəns	大众科学
+biology	baɪˈɒlədʒi	生物学
+microbiology	ˌmaɪkrəʊbaɪˈɒlədʒi	微生物学
+environmental science	ɪnˌvaɪərənˈmentl̩ ˈsaɪəns	环境科学
+life science	laɪf ˈsaɪəns	生命科学
+economics	ˌiːkəˈnɒmɪks	经济学
+economic history	ˌiːkəˈnɒmɪk ˈhɪstr̩i	经济学史
+psychology	saɪˈkɒlədʒi	心理学
+psychological course	ˌsaɪkəˈlɒdʒɪkl̩ kɔːs	心理课
+time management	ˈtaɪm ˈmænɪdʒmənt	时间管理课
+money management	ˈmʌni ˈmænɪdʒmənt	理财课
+literature	ˈlɪtrətʃə	文学
+School of Arts and Sciences	skuːl əv ɑːts ənd ˈsaɪənsɪz	文理学院
+computers	kəmˈpjuːtəz	计算机课
+philosophy	fɪˈlɒsəfi	哲学
+survival course	səˈvaɪvl̩ kɔːs	生存课程
+stress management	stres ˈmænɪdʒmənt	压力管理课
+sociology	ˌsəʊʃiˈɒlədʒi	社会学
+physiology	ˌfɪzɪˈɒlədʒi	生理学
+planet science	ˈplænɪt ˈsaɪəns	行星科学
+medical science	ˈmedɪkl̩ ˈsaɪəns	医学
+geography	dʒɪˈɒɡrəfi	地理
+chemistry	ˈkemɪstri	化学
+law	lɔː	法学，法律
+photojournalism	<photojournalism>	摄影新闻学
+linguistics	lɪŋˈɡwɪstɪks	语言学
+psycholinguistics	ˌsaɪkəʊlɪŋˈɡwɪstɪksɪz	心理语言学
+politics	ˈpɒlɪtɪks	政治
+history	ˈhɪstr̩i	历史
+physical education	ˈfɪzɪkl̩ ˌedʒʊˈkeɪʃn̩	体育课
+PE	ˌpiːˈiː	体育课
+mathematics	ˌmæθəˈmætɪks	数学
+finance	ˈfaɪnæns	金融学
+mass media	mæs ˈmiːdɪə	大众传媒
+statistics	stəˈtɪstɪks	统计学
+mining	ˈmaɪnɪŋ	采矿
+engineering	ˌendʒɪˈnɪərɪŋ	工程学
+architecture	ˈɑːkɪtektʃə	建筑学
+fine arts	faɪn ɑːts	美术
